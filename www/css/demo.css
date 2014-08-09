@@ -237,3 +237,7 @@ input.search {
     position: absolute;
     right: 21px;
 }
+p.title-site {
+    font-size: 0.8em;
+    color: #808080;
+}
