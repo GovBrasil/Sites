@@ -7,6 +7,7 @@
   <link rel="stylesheet" type="text/css" href="www/style.css" />
 </head>
 <body>
+<a href="https://github.com/GovBrasil/Sites"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
   <div class="container">
     <h2>Sites Gov.BR</h2>
      <div id="grid-pagination">
@@ -15,7 +16,6 @@
     </div>
     <div id="grid" class="row-fluid"></div>
   </div>
-
 
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
   <script type="text/javascript" src="www/jquery.paginate.min.js"></script>
@@ -31,7 +31,7 @@
               '<a href="screenshots/' + item.dominio + '.png" style="display: block; height: 200px; overflow: hidden; width: 230px;"><img src="thumbs/thumb-' + item.dominio + '.jpg" width="230" /></a>' +
               '<div class="picture-item__details">' +
                 '<figcaption class="picture-item__title">' + item.nome + '</figcaption>' +
-                '<p class="link-site"><a href="http://www.' + item.dominio + '">Acessar o site</a></p>' +
+                '<p class="link-site"><a href="http://www.' + item.dominio + '">' + item.dominio + '</a></p>' +
                 '<p class="picture-item__tags"></p>' +
               '</div>' +
             '</figure>'
@@ -42,5 +42,9 @@
       });
     });
   </script>
+<p style="padding: 20px; text-align: center;">
+    <iframe src="http://ghbtns.com/github-btn.html?user=GovBrasil&repo=Sites&type=watch&count=true&size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:170px; height: 30px;" allowTransparency="true" seamless></iframe>
+<br /><a href="https://github.com/GovBrasil/Sites/tree/master/dados">Baixar todos os dados em CSV ou JSON</a>
+</p>
 </body>
 </html>

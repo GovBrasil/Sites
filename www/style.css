@@ -29,3 +29,7 @@ figure.picture-item {
   margin-left: 30px;
   margin-right: 30px;
 }
+.picture-item__details {
+  text-align: center;
+  padding: 5px;
+}
