@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  font-size: 0.9em;
+}
+a {
+  text-decoration: none;
+}
+a.disabled {
+  text-decoration: none;
+  color: black;
+  cursor: default;
+}
+#example4, #grid-pagination {
+  display: none;
+}
+
+figure.picture-item {
+  width: 230px;
+  margin: 10px;
+  font-size: 1em;
+  height: 300px;
+  display: inline;
+  float: left;
+  border: 1px solid #dfdfdf;
+}
+#grid-pagination a {
+  font-size: 1.3em;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
