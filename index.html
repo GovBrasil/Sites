@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
   <title>Sites gov.br</title>
-  <script src="modernizr.custom.min.js"></script>
+  <script src="www/modernizr.custom.min.js"></script>
   <style type="text/css">
   a.disabled {
     text-decoration: none;
@@ -17,19 +17,19 @@
 </head>
 <body>
   <div class="container">
-    <h2>Sites .gov.br</h2>
+    <h2>Sites Gov.BR</h2>
     
     <div id="grid" class="row-fluid"></div>
     <div id="grid-pagination">
-        <a id="grid-previous" href="#">&laquo; Previous</a> 
-        <a id="grid-next" href="#">Next &raquo;</a> 
+        <a id="grid-previous" href="#">&laquo; Anterior</a> 
+        <a id="grid-next" href="#">Próximo &raquo;</a> 
     </div>
   </div>
 
 
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-  <script type="text/javascript" src="jquery.paginate.min.js"></script>
-  <script src="jquery.shuffle.js"></script>
+  <script type="text/javascript" src="www/jquery.paginate.min.js"></script>
+  <script type="text/javascript" src="www/jquery.shuffle.js"></script>
   <script type="text/javascript">
     $(document).ready(function() {
       $('#example3').paginate({itemsPerPage: 10});
@@ -38,9 +38,10 @@
         $.each(data, function(i, item) {
           items.push(
             '<figure class="span3 picture-item" data-groups="">' +
-              '<img src="screenshots/' + item.dominio + '.png" height="145" width="230" />' +
+              '<a href="screenshots/' + item.dominio + '.png"><img src="screenshots/thumb-' + item.dominio + '.png" height="145" width="230" /></a>' +
               '<div class="picture-item__details">' +
                 '<figcaption class="picture-item__title">' + item.nome + '</figcaption>' +
+                '<p class="link-site"><a href="http://www.' + item.dominio + '">Acessar o site</a></p>' +
                 '<p class="picture-item__tags"></p>' +
               '</div>' +
             '</figure>'
