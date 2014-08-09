@@ -10,11 +10,16 @@ a.disabled {
   color: black;
   cursor: default;
 }
-#example4, #grid-pagination {
-  display: none;
+.thumb {
+    display: block;
+    height: 200px;
+    overflow: hidden;
+    width: 230px;
 }
 
-figure.picture-item {
+ul, li { list-style: none; margin: 0px; padding: 0px; }
+
+.item {
   width: 230px;
   margin: 10px;
   font-size: 1em;
@@ -23,13 +28,16 @@ figure.picture-item {
   float: left;
   border: 1px solid #dfdfdf;
 }
-#grid-pagination a {
-  font-size: 1.3em;
-  padding: 10px;
-  margin-left: 30px;
-  margin-right: 30px;
-}
-.picture-item__details {
+.details {
   text-align: center;
   padding: 5px;
 }
+
+.grid .item a,
+.grid .item img {
+	outline: none;
+	border: none;
+	display: block;
+	max-width: 100%;
+}
+
