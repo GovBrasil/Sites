@@ -1,0 +1,5052 @@
+[
+  {
+    "url":"http://www.a2000.gov.br",
+    "dominio":"a2000.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.abc.gov.br",
+    "dominio":"abc.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.abin.gov.br",
+    "dominio":"abin.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.abrasil.gov.br",
+    "dominio":"abrasil.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.ac-jus.gov.br",
+    "dominio":"ac-jus.gov.br",
+    "nome":"CONSELHO DA JUSTICA FEDERAL"
+  },
+  {
+    "url":"http://www.ac.gov.br",
+    "dominio":"ac.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG"
+  },
+  {
+    "url":"http://www.acjus.gov.br",
+    "dominio":"acjus.gov.br",
+    "nome":"CONSELHO DA JUSTICA FEDERAL"
+  },
+  {
+    "url":"http://www.acraiz.gov.br",
+    "dominio":"acraiz.gov.br",
+    "nome":"INSTITUTO NACIONAL DE TECNOLOGIA INFORMACAO - ITI"
+  },
+  {
+    "url":"http://www.acre.gov.br",
+    "dominio":"acre.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG"
+  },
+  {
+    "url":"http://www.acs.gov.br",
+    "dominio":"acs.gov.br",
+    "nome":"ALCANTARA CYCLONE SPACE - BINACIONAL"
+  },
+  {
+    "url":"http://www.ada.gov.br",
+    "dominio":"ada.gov.br",
+    "nome":"SUPERINTEDENCIA DO DENVOLVIMENTO DA AMAZONIA"
+  },
+  {
+    "url":"http://www.adene.gov.br",
+    "dominio":"adene.gov.br",
+    "nome":"AGENCIA DE DESENVOLVIMENTO DO NORDESTE"
+  },
+  {
+    "url":"http://www.aeb.gov.br",
+    "dominio":"aeb.gov.br",
+    "nome":"AGENCIA ESPACIAL BRASILEIRA"
+  },
+  {
+    "url":"http://www.aeroportodebrasilia.gov.br",
+    "dominio":"aeroportodebrasilia.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.aeroportodesalvador.gov.br",
+    "dominio":"aeroportodesalvador.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.aeroportoindustria.gov.br",
+    "dominio":"aeroportoindustria.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.aeroportoindustrial.gov.br",
+    "dominio":"aeroportoindustrial.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.aeroshopping.gov.br",
+    "dominio":"aeroshopping.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.agenciabrasil.gov.br",
+    "dominio":"agenciabrasil.gov.br",
+    "nome":"EMPRESA BRASIL DE COMUNICACAO S.A. - EBC"
+  },
+  {
+    "url":"http://www.agenciacamara.gov.br",
+    "dominio":"agenciacamara.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.agespacial.gov.br",
+    "dominio":"agespacial.gov.br",
+    "nome":"AGENCIA ESPACIAL BRASILEIRA"
+  },
+  {
+    "url":"http://www.agricultura.gov.br",
+    "dominio":"agricultura.gov.br",
+    "nome":"MINISTERIO DA AGRICULTURA E DO ABASTECIMENTO"
+  },
+  {
+    "url":"http://www.agriculturafamiliar.gov.br",
+    "dominio":"agriculturafamiliar.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.agritempo.gov.br",
+    "dominio":"agritempo.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA"
+  },
+  {
+    "url":"http://www.agrolivre.gov.br",
+    "dominio":"agrolivre.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA"
+  },
+  {
+    "url":"http://www.agronet-pe.gov.br",
+    "dominio":"agronet-pe.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE BELO JARDIM"
+  },
+  {
+    "url":"http://www.agronet.gov.br",
+    "dominio":"agronet.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SAO JOAO EVANGELISTA"
+  },
+  {
+    "url":"http://www.agu.gov.br",
+    "dominio":"agu.gov.br",
+    "nome":"ADVOCACIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.ahimor.gov.br",
+    "dominio":"ahimor.gov.br",
+    "nome":"ADMINISTRACAO DAS HIDROVIAS DA AMAZONIA ORIENTAL"
+  },
+  {
+    "url":"http://www.ahinor.gov.br",
+    "dominio":"ahinor.gov.br",
+    "nome":"ADMINISTRACAO DAS HIDROVIAS DO NORDESTE - AHINOR"
+  },
+  {
+    "url":"http://www.ahipar.gov.br",
+    "dominio":"ahipar.gov.br",
+    "nome":"AHIPAR ADMINISTRACAO DA HIDROVIA DO PARAGUAI"
+  },
+  {
+    "url":"http://www.ahitar.gov.br",
+    "dominio":"ahitar.gov.br",
+    "nome":"AHITAR - ADMINISTRACAO DAS HIDROVIAS DO TOCANTINS"
+  },
+  {
+    "url":"http://www.ahrana.gov.br",
+    "dominio":"ahrana.gov.br",
+    "nome":"ADIMINISTRACAO DA HIDROVIA DO PARANA-AHRANA"
+  },
+  {
+    "url":"http://www.ahsfra.gov.br",
+    "dominio":"ahsfra.gov.br",
+    "nome":"ADMINISTRACAO DA HIDROVIA DO SAO FRANCISCO"
+  },
+  {
+    "url":"http://www.aids.gov.br",
+    "dominio":"aids.gov.br",
+    "nome":"FUNDO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.al.gov.br",
+    "dominio":"al.gov.br",
+    "nome":"FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS"
+  },
+  {
+    "url":"http://www.aleam.gov.br",
+    "dominio":"aleam.gov.br",
+    "nome":"ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS"
+  },
+  {
+    "url":"http://www.alemg.gov.br",
+    "dominio":"alemg.gov.br",
+    "nome":"ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS"
+  },
+  {
+    "url":"http://www.almg.gov.br",
+    "dominio":"almg.gov.br",
+    "nome":"ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS"
+  },
+  {
+    "url":"http://www.altatv.gov.br",
+    "dominio":"altatv.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA DA INFORMACAO RENATO ARCHER"
+  },
+  {
+    "url":"http://www.am.gov.br",
+    "dominio":"am.gov.br",
+    "nome":"PRODAM PROCESSAMENTO DE DADOS AMAZONAS S.A"
+  },
+  {
+    "url":"http://www.amapa.gov.br",
+    "dominio":"amapa.gov.br",
+    "nome":"GOVERNO DO ESTADO DO AMAPA"
+  },
+  {
+    "url":"http://www.amazonasenergia.gov.br",
+    "dominio":"amazonasenergia.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.amazonfund-bndes.gov.br",
+    "dominio":"amazonfund-bndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazonfund.gov.br",
+    "dominio":"amazonfund.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazoniafund.gov.br",
+    "dominio":"amazoniafund.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazoniafundo-bndes.gov.br",
+    "dominio":"amazoniafundo-bndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazoniafundo.gov.br",
+    "dominio":"amazoniafundo.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazonianfund-bndes.gov.br",
+    "dominio":"amazonianfund-bndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.amazonianfund.gov.br",
+    "dominio":"amazonianfund.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.ambiente.gov.br",
+    "dominio":"ambiente.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.an.gov.br",
+    "dominio":"an.gov.br",
+    "nome":"ARQUIVO NACIONAL"
+  },
+  {
+    "url":"http://www.ana.gov.br",
+    "dominio":"ana.gov.br",
+    "nome":"AGENCIA NACIONAL DE AGUAS"
+  },
+  {
+    "url":"http://www.anac.gov.br",
+    "dominio":"anac.gov.br",
+    "nome":" AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC"
+  },
+  {
+    "url":"http://www.anapost.gov.br",
+    "dominio":"anapost.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE CORREIOS E TEL"
+  },
+  {
+    "url":"http://www.anatel.gov.br",
+    "dominio":"anatel.gov.br",
+    "nome":"AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL"
+  },
+  {
+    "url":"http://www.ancine.gov.br",
+    "dominio":"ancine.gov.br",
+    "nome":"AGENCIA NACIONAL DO CINEMA"
+  },
+  {
+    "url":"http://www.aneel.gov.br",
+    "dominio":"aneel.gov.br",
+    "nome":"ANEEL - AG"
+  },
+  {
+    "url":"http://www.anp.gov.br",
+    "dominio":"anp.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCO."
+  },
+  {
+    "url":"http://www.ans-saude.gov.br",
+    "dominio":"ans-saude.gov.br",
+    "nome":"AGENCIA NACIONAL DE SAUDE SUPLEMENTAR"
+  },
+  {
+    "url":"http://www.ans.gov.br",
+    "dominio":"ans.gov.br",
+    "nome":"AGENCIA NACIONAL DE SAUDE SUPLEMENTAR"
+  },
+  {
+    "url":"http://www.anssaude.gov.br",
+    "dominio":"anssaude.gov.br",
+    "nome":"AGENCIA NACIONAL DE SAUDE SUPLEMENTAR"
+  },
+  {
+    "url":"http://www.antaq.gov.br",
+    "dominio":"antaq.gov.br",
+    "nome":"AGENCIA NACIONAL DE TRANSPORTES AQUAVIARIOS"
+  },
+  {
+    "url":"http://www.antt.gov.br",
+    "dominio":"antt.gov.br",
+    "nome":"AGENCIA NACIONAL DE TRANSPORTES TERRESTRES"
+  },
+  {
+    "url":"http://www.anvisa.gov.br",
+    "dominio":"anvisa.gov.br",
+    "nome":"AGENCIA NACIONAL DE VIGILANCIA SANITARIA"
+  },
+  {
+    "url":"http://www.anvs.gov.br",
+    "dominio":"anvs.gov.br",
+    "nome":"AGENCIA NACIONAL DE VIGILANCIA SANITARIA"
+  },
+  {
+    "url":"http://www.ap.gov.br",
+    "dominio":"ap.gov.br",
+    "nome":"GOVERNO DO ESTADO DO AMAPA"
+  },
+  {
+    "url":"http://www.apec.gov.br",
+    "dominio":"apec.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.apo.gov.br",
+    "dominio":"apo.gov.br",
+    "nome":"AUTORIDADE PUBLICA OLIMPICA"
+  },
+  {
+    "url":"http://www.apostasurpresa.gov.br",
+    "dominio":"apostasurpresa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.aprendendoaexportar.gov.br",
+    "dominio":"aprendendoaexportar.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.arquivonacional.gov.br",
+    "dominio":"arquivonacional.gov.br",
+    "nome":"ARQUIVO NACIONAL"
+  },
+  {
+    "url":"http://www.assistenciasocial.gov.br",
+    "dominio":"assistenciasocial.gov.br",
+    "nome":"DTI/SE/MDS E COMBATE A FOME"
+  },
+  {
+    "url":"http://www.avancabrasil.gov.br",
+    "dominio":"avancabrasil.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.aviacaocivil.gov.br",
+    "dominio":"aviacaocivil.gov.br",
+    "nome":"SECRETARIA DE AVIACAO CIVIL"
+  },
+  {
+    "url":"http://www.abcd.gov.br",
+    "dominio":"abcd.gov.br",
+    "nome":"MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.abcnaidadecerta.gov.br",
+    "dominio":"abcnaidadecerta.gov.br",
+    "nome":"MIN. DA EDUCACAO - DIR. TECNOLOGIA DA INFORMACAO"
+  },
+  {
+    "url":"http://www.acessoajustica.gov.br",
+    "dominio":"acessoajustica.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.atlasdeacessoajustica.gov.br",
+    "dominio":"atlasdeacessoajustica.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.abgf.gov.br",
+    "dominio":"abgf.gov.br",
+    "nome":"AGENCIA BRASILEIRA G. DE F. G. E GARANTIAS S/A"
+  },
+  {
+    "url":"http://www.acessoainformacao.gov.br",
+    "dominio":"acessoainformacao.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.acessoainformacao.gov.br",
+    "dominio":"acessoainformacao.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.ahimoc.gov.br",
+    "dominio":"ahimoc.gov.br",
+    "nome":"ADMIN. DAS HIDROVIAS DA AMAZONIA OCIDENTAL"
+  },
+  {
+    "url":"http://www.antarcticabrazil.gov.br",
+    "dominio":"antarcticabrazil.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.aplicativos.gov.br",
+    "dominio":"aplicativos.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.aerofacil.gov.br",
+    "dominio":"aerofacil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.ba.gov.br",
+    "dominio":"ba.gov.br",
+    "nome":"CIA. DE PROCESSAMENTO DE DADOS DO ESTADO DA BAHIA"
+  },
+  {
+    "url":"http://www.bacen.gov.br",
+    "dominio":"bacen.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.baciadoprata.gov.br",
+    "dominio":"baciadoprata.gov.br",
+    "nome":"ANEEL - AG"
+  },
+  {
+    "url":"http://www.badesc.gov.br",
+    "dominio":"badesc.gov.br",
+    "nome":"BADESC-AG"
+  },
+  {
+    "url":"http://www.bancocentral.gov.br",
+    "dominio":"bancocentral.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.bancodaterra.gov.br",
+    "dominio":"bancodaterra.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.bancodeconteudos.gov.br",
+    "dominio":"bancodeconteudos.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.bancodeoportunidades.gov.br",
+    "dominio":"bancodeoportunidades.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.bancodonordeste.gov.br",
+    "dominio":"bancodonordeste.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.banconordeste.gov.br",
+    "dominio":"banconordeste.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.bc.gov.br",
+    "dominio":"bc.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.bcb.gov.br",
+    "dominio":"bcb.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.bcc.gov.br",
+    "dominio":"bcc.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.bcdam.gov.br",
+    "dominio":"bcdam.gov.br",
+    "nome":"COMPANHIA DE PESQUISA DE RECURSOS MINERAIS"
+  },
+  {
+    "url":"http://www.bdep.gov.br",
+    "dominio":"bdep.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCO."
+  },
+  {
+    "url":"http://www.bdjur.gov.br",
+    "dominio":"bdjur.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.belomonte.gov.br",
+    "dominio":"belomonte.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.bemrecebercopa.gov.br",
+    "dominio":"bemrecebercopa.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.bid2002brasil.gov.br",
+    "dominio":"bid2002brasil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.biodiesel.gov.br",
+    "dominio":"biodiesel.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE INFORMACAO EM C&T"
+  },
+  {
+    "url":"http://www.biodiversidade.gov.br",
+    "dominio":"biodiversidade.gov.br",
+    "nome":"INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE"
+  },
+  {
+    "url":"http://www.bnb.gov.br",
+    "dominio":"bnb.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.bndes.gov.br",
+    "dominio":"bndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.bndespar.gov.br",
+    "dominio":"bndespar.gov.br",
+    "nome":"BNDES PARTICIPACOES S/A"
+  },
+  {
+    "url":"http://www.boavistaenergia.gov.br",
+    "dominio":"boavistaenergia.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.bolaofederal.gov.br",
+    "dominio":"bolaofederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.bolsadacaixa.gov.br",
+    "dominio":"bolsadacaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.brasil-rounds.gov.br",
+    "dominio":"brasil-rounds.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCO."
+  },
+  {
+    "url":"http://www.brasil.gov.br",
+    "dominio":"brasil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.brasilcultura.gov.br",
+    "dominio":"brasilcultura.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.brasilemcidades.gov.br",
+    "dominio":"brasilemcidades.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.brasilglobalnet.gov.br",
+    "dominio":"brasilglobalnet.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.brasilia2010.gov.br",
+    "dominio":"brasilia2010.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.brasilmaior.gov.br",
+    "dominio":"brasilmaior.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.brasilpresente.gov.br",
+    "dominio":"brasilpresente.gov.br",
+    "nome":"SECRETARIA DE COMUNICACAO SOCIAL"
+  },
+  {
+    "url":"http://www.brasilre.gov.br",
+    "dominio":"brasilre.gov.br",
+    "nome":"IRB - BRASIL RESSEGUROS SA"
+  },
+  {
+    "url":"http://www.brasilsemiseria.gov.br",
+    "dominio":"brasilsemiseria.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.brasilsemmiseria.gov.br",
+    "dominio":"brasilsemmiseria.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.brasiltradenet.gov.br",
+    "dominio":"brasiltradenet.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.brasiltransparente.gov.br",
+    "dominio":"brasiltransparente.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.brazil-rounds.gov.br",
+    "dominio":"brazil-rounds.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCO."
+  },
+  {
+    "url":"http://www.brazil.gov.br",
+    "dominio":"brazil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.brazilenvironment-mobile.gov.br",
+    "dominio":"brazilenvironment-mobile.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.brazilglobalnet.gov.br",
+    "dominio":"brazilglobalnet.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.brazilianexporters.gov.br",
+    "dominio":"brazilianexporters.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.brazilrounds.gov.br",
+    "dominio":"brazilrounds.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCO."
+  },
+  {
+    "url":"http://www.brazilsenvironment.gov.br",
+    "dominio":"brazilsenvironment.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.braziltradenet.gov.br",
+    "dominio":"braziltradenet.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.brmcc.gov.br",
+    "dominio":"brmcc.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.btn.gov.br",
+    "dominio":"btn.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.butantan.gov.br",
+    "dominio":"butantan.gov.br",
+    "nome":"INSTITUTO BUTANTAN"
+  },
+  {
+    "url":"http://www.bvenergia.gov.br",
+    "dominio":"bvenergia.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.brasilexport.gov.br",
+    "dominio":"brasilexport.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.brasil2016.gov.br",
+    "dominio":"brasil2016.gov.br",
+    "nome":"MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.bioform.gov.br",
+    "dominio":"bioform.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.bn.gov.br",
+    "dominio":"bn.gov.br",
+    "nome":"FUNDACAO BIBLIOTECA NACIONAL"
+  },
+  {
+    "url":"http://www.brasilvoluntario.gov.br",
+    "dominio":"brasilvoluntario.gov.br",
+    "nome":"MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.btig.gov.br",
+    "dominio":"btig.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.businessbrasil.gov.br",
+    "dominio":"businessbrasil.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.businessbrazil.gov.br",
+    "dominio":"businessbrazil.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.c-brasil.gov.br",
+    "dominio":"c-brasil.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.c-brazil.gov.br",
+    "dominio":"c-brazil.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.cade.gov.br",
+    "dominio":"cade.gov.br",
+    "nome":"CONSELHO ADMINISTRATIVO DE DEFESA ECON"
+  },
+  {
+    "url":"http://www.caged.gov.br",
+    "dominio":"caged.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.caixa.gov.br",
+    "dominio":"caixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaaqui.gov.br",
+    "dominio":"caixaaqui.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixacultural.gov.br",
+    "dominio":"caixacultural.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixadasorte.gov.br",
+    "dominio":"caixadasorte.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixadotesouro.gov.br",
+    "dominio":"caixadotesouro.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaeconomica.gov.br",
+    "dominio":"caixaeconomica.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaeconomicafederal.gov.br",
+    "dominio":"caixaeconomicafederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaforte.gov.br",
+    "dominio":"caixaforte.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixainvest.gov.br",
+    "dominio":"caixainvest.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixainveste.gov.br",
+    "dominio":"caixainveste.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixamaisqueumbanco.gov.br",
+    "dominio":"caixamaisqueumbanco.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixapostal.gov.br",
+    "dominio":"caixapostal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaqui.gov.br",
+    "dominio":"caixaqui.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixaresolve.gov.br",
+    "dominio":"caixaresolve.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caixavirtual.gov.br",
+    "dominio":"caixavirtual.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.camara.gov.br",
+    "dominio":"camara.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.camaradosdeputados.gov.br",
+    "dominio":"camaradosdeputados.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.caminhaodasorte.gov.br",
+    "dominio":"caminhaodasorte.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.caminhaofederal.gov.br",
+    "dominio":"caminhaofederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.cancer.gov.br",
+    "dominio":"cancer.gov.br",
+    "nome":"INSTITUTO NACIONAL DO CANCER"
+  },
+  {
+    "url":"http://www.capes.gov.br",
+    "dominio":"capes.gov.br",
+    "nome":"FUNDACAO CAPES"
+  },
+  {
+    "url":"http://www.capitalderisco.gov.br",
+    "dominio":"capitalderisco.gov.br",
+    "nome":"FINACIADORA DE ESTUDOS E PROJETOS"
+  },
+  {
+    "url":"http://www.carrocampeao.gov.br",
+    "dominio":"carrocampeao.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.cartaobndes.gov.br",
+    "dominio":"cartaobndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.cartelafederal.gov.br",
+    "dominio":"cartelafederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.casabrasil.gov.br",
+    "dominio":"casabrasil.gov.br",
+    "nome":"MINISTERIO DA CIENCIA E TECNOLOGIA"
+  },
+  {
+    "url":"http://www.casacivil.gov.br",
+    "dominio":"casacivil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.casadamoeda.gov.br",
+    "dominio":"casadamoeda.gov.br",
+    "nome":"CASA DA MOEDA DO BRASIL"
+  },
+  {
+    "url":"http://www.casadoscontos.gov.br",
+    "dominio":"casadoscontos.gov.br",
+    "nome":"CENTRO REGIONAL DE TREINAMENTO ESAF"
+  },
+  {
+    "url":"http://www.casaruibarbosa.gov.br",
+    "dominio":"casaruibarbosa.gov.br",
+    "nome":"FUNDACAO CASA DE RUI BARBOSA"
+  },
+  {
+    "url":"http://www.catir.gov.br",
+    "dominio":"catir.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.cbee.gov.br",
+    "dominio":"cbee.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.cbh.gov.br",
+    "dominio":"cbh.gov.br",
+    "nome":"AGENCIA NACIONAL DE AGUAS"
+  },
+  {
+    "url":"http://www.cbnb.gov.br",
+    "dominio":"cbnb.gov.br",
+    "nome":"TERCEIRO COMANDO AEREO REGIONAL"
+  },
+  {
+    "url":"http://www.cbtu-natal.gov.br",
+    "dominio":"cbtu-natal.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS-GERENCIA NAT"
+  },
+  {
+    "url":"http://www.cbtu-sturec.gov.br",
+    "dominio":"cbtu-sturec.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS"
+  },
+  {
+    "url":"http://www.cbtu.gov.br",
+    "dominio":"cbtu.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS"
+  },
+  {
+    "url":"http://www.cbtujp.gov.br",
+    "dominio":"cbtujp.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS"
+  },
+  {
+    "url":"http://www.cbtumetrorec.gov.br",
+    "dominio":"cbtumetrorec.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS"
+  },
+  {
+    "url":"http://www.ccom.gov.br",
+    "dominio":"ccom.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.ccpe.gov.br",
+    "dominio":"ccpe.gov.br",
+    "nome":"MINISTERIO DE MINAS E ENERGIA"
+  },
+  {
+    "url":"http://www.cd.gov.br",
+    "dominio":"cd.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.cdb.gov.br",
+    "dominio":"cdb.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES - DCD"
+  },
+  {
+    "url":"http://www.cdes.gov.br",
+    "dominio":"cdes.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.cdp-ahitar.gov.br",
+    "dominio":"cdp-ahitar.gov.br",
+    "nome":"AHITAR - ADMINISTRACAO DAS HIDROVIAS DO TOCANTINS"
+  },
+  {
+    "url":"http://www.cdv.gov.br",
+    "dominio":"cdv.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.ce.gov.br",
+    "dominio":"ce.gov.br",
+    "nome":"EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE"
+  },
+  {
+    "url":"http://www.ceagesp.gov.br",
+    "dominio":"ceagesp.gov.br",
+    "nome":"CEAGESP CIA ENTREPOSTOS ARMAZENS GERAIS S.P."
+  },
+  {
+    "url":"http://www.ceara.gov.br",
+    "dominio":"ceara.gov.br",
+    "nome":"SECRETARIA DA ADMINISTRACAO"
+  },
+  {
+    "url":"http://www.ceasa.gov.br",
+    "dominio":"ceasa.gov.br",
+    "nome":"COMPANHIA NACIONAL DE ABASTECIMENTO"
+  },
+  {
+    "url":"http://www.cef.gov.br",
+    "dominio":"cef.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.cefetbg.gov.br",
+    "dominio":"cefetbg.gov.br",
+    "nome":"CENTRO FEDERAL DE EDUCACAO TECNO BENTO G"
+  },
+  {
+    "url":"http://www.cefetsvs.gov.br",
+    "dominio":"cefetsvs.gov.br",
+    "nome":"INSTITUTO FEDERAL FARROUPILHA"
+  },
+  {
+    "url":"http://www.celepar.gov.br",
+    "dominio":"celepar.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.cemaden.gov.br",
+    "dominio":"cemaden.gov.br",
+    "nome":"INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS"
+  },
+  {
+    "url":"http://www.cenad.gov.br",
+    "dominio":"cenad.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.cenipa.gov.br",
+    "dominio":"cenipa.gov.br",
+    "nome":"CENTRO DE INV E PREV DE ACIDENTES AERONAUTICOS"
+  },
+  {
+    "url":"http://www.cenpra.gov.br",
+    "dominio":"cenpra.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA DA INFORMACAO RENATO ARCHER"
+  },
+  {
+    "url":"http://www.censo.gov.br",
+    "dominio":"censo.gov.br",
+    "nome":"FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE"
+  },
+  {
+    "url":"http://www.censo2000.gov.br",
+    "dominio":"censo2000.gov.br",
+    "nome":"FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE"
+  },
+  {
+    "url":"http://www.cepec.gov.br",
+    "dominio":"cepec.gov.br",
+    "nome":"CEPLAC / CEPEC / NUCAD"
+  },
+  {
+    "url":"http://www.cepesc.gov.br",
+    "dominio":"cepesc.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.ceplac.gov.br",
+    "dominio":"ceplac.gov.br",
+    "nome":"COMISSAO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA"
+  },
+  {
+    "url":"http://www.ceplacdf.gov.br",
+    "dominio":"ceplacdf.gov.br",
+    "nome":"COMISSAO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA"
+  },
+  {
+    "url":"http://www.ceplacpa.gov.br",
+    "dominio":"ceplacpa.gov.br",
+    "nome":"COMISSAO EXECUTIVA DO PLANTIO DA LAVOURA CACAUEIRA"
+  },
+  {
+    "url":"http://www.cernai.gov.br",
+    "dominio":"cernai.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.certidaodenascimento.gov.br",
+    "dominio":"certidaodenascimento.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.cetem.gov.br",
+    "dominio":"cetem.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA MINERAL"
+  },
+  {
+    "url":"http://www.cetene.gov.br",
+    "dominio":"cetene.gov.br",
+    "nome":"INSTITUTO NACIONAL DE TECNOLOGIA - NORDESTE/MCT"
+  },
+  {
+    "url":"http://www.ceturb.gov.br",
+    "dominio":"ceturb.gov.br",
+    "nome":"COMP DE TRANSP URB DA GRANDE VITORIA"
+  },
+  {
+    "url":"http://www.cfa.gov.br",
+    "dominio":"cfa.gov.br",
+    "nome":"CFA - CONSELHO FEDERAL DE ADMINISTRACAO"
+  },
+  {
+    "url":"http://www.d.gov.br",
+    "dominio":"d.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.dac.gov.br",
+    "dominio":"dac.gov.br",
+    "nome":"DEPARTAMENTO DE AVIACAO CIVIL - DAC"
+  },
+  {
+    "url":"http://www.dados.gov.br",
+    "dominio":"dados.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.dadosabertos.gov.br",
+    "dominio":"dadosabertos.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.dataprev.gov.br",
+    "dominio":"dataprev.gov.br",
+    "nome":"DATAPREV EMPRESA DE PROC. DE DADOS DA PREVIDENCIA"
+  },
+  {
+    "url":"http://www.datasus.gov.br",
+    "dominio":"datasus.gov.br",
+    "nome":"MINISTERIO DA SAUDE"
+  },
+  {
+    "url":"http://www.dcea.gov.br",
+    "dominio":"dcea.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.decea.gov.br",
+    "dominio":"decea.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.decine.gov.br",
+    "dominio":"decine.gov.br",
+    "nome":"FUNDACAO NACIONAL DE ARTES"
+  },
+  {
+    "url":"http://www.defencil.gov.br",
+    "dominio":"defencil.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.defensoriapublica.gov.br",
+    "dominio":"defensoriapublica.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.defesa.gov.br",
+    "dominio":"defesa.gov.br",
+    "nome":"MINISTERIO DA DEFESA"
+  },
+  {
+    "url":"http://www.defesaagropecuaria.gov.br",
+    "dominio":"defesaagropecuaria.gov.br",
+    "nome":"SECRETARIA DE DEFESA AGROPECUARIA"
+  },
+  {
+    "url":"http://www.defesacivil.gov.br",
+    "dominio":"defesacivil.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.denatran.gov.br",
+    "dominio":"denatran.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.deputado.gov.br",
+    "dominio":"deputado.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.depv.gov.br",
+    "dominio":"depv.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.desenvolvimento.gov.br",
+    "dominio":"desenvolvimento.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.desenvolvimentoagrario.gov.br",
+    "dominio":"desenvolvimentoagrario.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.desenvolvimentosocial.gov.br",
+    "dominio":"desenvolvimentosocial.gov.br",
+    "nome":"DTI/SE/MDS E COMBATE A FOME"
+  },
+  {
+    "url":"http://www.df.gov.br",
+    "dominio":"df.gov.br",
+    "nome":"GOVERNO DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.dfa-ba.gov.br",
+    "dominio":"dfa-ba.gov.br",
+    "nome":" MINISTERIO DA AGRICULTURA E DO ABASTECIMENTO"
+  },
+  {
+    "url":"http://www.dfa-pe.gov.br",
+    "dominio":"dfa-pe.gov.br",
+    "nome":"MINISTERIO DA AGRICULTURA - DFA - LAPA - RECIFE"
+  },
+  {
+    "url":"http://www.dfasp.gov.br",
+    "dominio":"dfasp.gov.br",
+    "nome":"DELEGACIA FEDERAL DE AGRICULTURA EM SAO PAULO"
+  },
+  {
+    "url":"http://www.diariodajustica.gov.br",
+    "dominio":"diariodajustica.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.dinf.gov.br",
+    "dominio":"dinf.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.dinheiroaqui.gov.br",
+    "dominio":"dinheiroaqui.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.dinheiroemcaixa.gov.br",
+    "dominio":"dinheiroemcaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.dinheiroinstantaneo.gov.br",
+    "dominio":"dinheiroinstantaneo.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.dinheirovivo.gov.br",
+    "dominio":"dinheirovivo.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.direitoshumanos.gov.br",
+    "dominio":"direitoshumanos.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.disque100.gov.br",
+    "dominio":"disque100.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.dj.gov.br",
+    "dominio":"dj.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.dnc.gov.br",
+    "dominio":"dnc.gov.br",
+    "nome":"AGENCIA NACIONAL DO PETROLEO - DNC"
+  },
+  {
+    "url":"http://www.dner-ce.gov.br",
+    "dominio":"dner-ce.gov.br",
+    "nome":"DNER - 03. DISTRITO RODOVIAVIO FEDERAL"
+  },
+  {
+    "url":"http://www.dner-ms.gov.br",
+    "dominio":"dner-ms.gov.br",
+    "nome":"DNER - DEPT NAC. DE ESTRADAS E RODAGENS"
+  },
+  {
+    "url":"http://www.dner.gov.br",
+    "dominio":"dner.gov.br",
+    "nome":"DEPTO NACIONAL DE ESTRADAS DE RODAGEM - DNER"
+  },
+  {
+    "url":"http://www.dner1drf.gov.br",
+    "dominio":"dner1drf.gov.br",
+    "nome":"DNER / 1 DISTRITO RODOVIARIO FEDERAL"
+  },
+  {
+    "url":"http://www.dnit.gov.br",
+    "dominio":"dnit.gov.br",
+    "nome":"DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPOR"
+  },
+  {
+    "url":"http://www.dnocs.gov.br",
+    "dominio":"dnocs.gov.br",
+    "nome":"DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS"
+  },
+  {
+    "url":"http://www.dnocspb.gov.br",
+    "dominio":"dnocspb.gov.br",
+    "nome":"SEGUNDO DISTRITO DE ENGENHARIA RURAL"
+  },
+  {
+    "url":"http://www.dnpm-pe.gov.br",
+    "dominio":"dnpm-pe.gov.br",
+    "nome":"4 DISTRITO DNPM - PE"
+  },
+  {
+    "url":"http://www.dnpm.gov.br",
+    "dominio":"dnpm.gov.br",
+    "nome":"DEPARTAMENTO NACIONAL DE PRODUCAO MINERAL"
+  },
+  {
+    "url":"http://www.dnpmma.gov.br",
+    "dominio":"dnpmma.gov.br",
+    "nome":"DNPM - DEPART. NACIONAL DE PRODU"
+  },
+  {
+    "url":"http://www.dnpmsc.gov.br",
+    "dominio":"dnpmsc.gov.br",
+    "nome":"DNPM - 11 DISTRITO"
+  },
+  {
+    "url":"http://www.dnrc.gov.br",
+    "dominio":"dnrc.gov.br",
+    "nome":"DEPARTAMENTO NACIONAL DE REGISTRO DO COMERCIO"
+  },
+  {
+    "url":"http://www.documenta.gov.br",
+    "dominio":"documenta.gov.br",
+    "nome":"FUNDACAO BIBLIOTECA NACIONAL"
+  },
+  {
+    "url":"http://www.dom.gov.br",
+    "dominio":"dom.gov.br",
+    "nome":"PROJETO DOM HELDER CAMARA"
+  },
+  {
+    "url":"http://www.dominiopublico.gov.br",
+    "dominio":"dominiopublico.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO"
+  },
+  {
+    "url":"http://www.dou.gov.br",
+    "dominio":"dou.gov.br",
+    "nome":"IMPRENSA NACIONAL/PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.dpf-ce.gov.br",
+    "dominio":"dpf-ce.gov.br",
+    "nome":"SUPER. REGIONAL DA POLICIA FEDERAL NO CEARA"
+  },
+  {
+    "url":"http://www.dpf.gov.br",
+    "dominio":"dpf.gov.br",
+    "nome":"DEPARTAMENTO DE POLICIA FEDERAL"
+  },
+  {
+    "url":"http://www.dprf.gov.br",
+    "dominio":"dprf.gov.br",
+    "nome":"DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL"
+  },
+  {
+    "url":"http://www.dpu.gov.br",
+    "dominio":"dpu.gov.br",
+    "nome":"DEFENSORIA PUBLICA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.dtceaaf.gov.br",
+    "dominio":"dtceaaf.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceagl.gov.br",
+    "dominio":"dtceagl.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceagw.gov.br",
+    "dominio":"dtceagw.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceamt.gov.br",
+    "dominio":"dtceamt.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceasc.gov.br",
+    "dominio":"dtceasc.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceasj.gov.br",
+    "dominio":"dtceasj.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceasp.gov.br",
+    "dominio":"dtceasp.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceast.gov.br",
+    "dominio":"dtceast.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dtceatmrj.gov.br",
+    "dominio":"dtceatmrj.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.dte.gov.br",
+    "dominio":"dte.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.dtpdf.gov.br",
+    "dominio":"dtpdf.gov.br",
+    "nome":"DATAPREV DF"
+  },
+  {
+    "url":"http://www.duplasena.gov.br",
+    "dominio":"duplasena.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.data.gov.br",
+    "dominio":"data.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.desenvolvimentorural.gov.br",
+    "dominio":"desenvolvimentorural.gov.br",
+    "nome":"MINSTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.desaparecidos.gov.br",
+    "dominio":"desaparecidos.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.dialogosfederativos.gov.br",
+    "dominio":"dialogosfederativos.gov.br",
+    "nome":"SUBCHEFIA DE ASSUNTOS FEDERATIVOS"
+  },
+  {
+    "url":"http://www.e-car.gov.br",
+    "dominio":"e-car.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.e-conta.gov.br",
+    "dominio":"e-conta.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.e-contacaixa.gov.br",
+    "dominio":"e-contacaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.e-jud.gov.br",
+    "dominio":"e-jud.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.e-jus.gov.br",
+    "dominio":"e-jus.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.e-pagamentos.gov.br",
+    "dominio":"e-pagamentos.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.e-pagamentoscaixa.gov.br",
+    "dominio":"e-pagamentoscaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.e-parana.gov.br",
+    "dominio":"e-parana.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.e-post.gov.br",
+    "dominio":"e-post.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+  },
+  {
+    "url":"http://www.e-stj.gov.br",
+    "dominio":"e-stj.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.e.gov.br",
+    "dominio":"e.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.eaf-sbf.gov.br",
+    "dominio":"eaf-sbf.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SENHOR DO BONFIM"
+  },
+  {
+    "url":"http://www.eafa-to.gov.br",
+    "dominio":"eafa-to.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE ARAGUATINS"
+  },
+  {
+    "url":"http://www.eafajt.gov.br",
+    "dominio":"eafajt.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL ANTONIO JOSE TEIXEIRA"
+  },
+  {
+    "url":"http://www.eafars.gov.br",
+    "dominio":"eafars.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE ALEGRETE"
+  },
+  {
+    "url":"http://www.eafb.gov.br",
+    "dominio":"eafb.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE BARREIROS-PE"
+  },
+  {
+    "url":"http://www.eafbambui.gov.br",
+    "dominio":"eafbambui.gov.br",
+    "nome":"CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DE BAMBUI"
+  },
+  {
+    "url":"http://www.eafc-pa.gov.br",
+    "dominio":"eafc-pa.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE CASTANHAL"
+  },
+  {
+    "url":"http://www.eafc.gov.br",
+    "dominio":"eafc.gov.br",
+    "nome":"INSTITUTO FEDERAL DE MATO GROSSO - CACERES"
+  },
+  {
+    "url":"http://www.eafcatu.gov.br",
+    "dominio":"eafcatu.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE CATU"
+  },
+  {
+    "url":"http://www.eafce.gov.br",
+    "dominio":"eafce.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE CERES"
+  },
+  {
+    "url":"http://www.eafco.gov.br",
+    "dominio":"eafco.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE COLORADO DO OESTE"
+  },
+  {
+    "url":"http://www.eafcol.gov.br",
+    "dominio":"eafcol.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE COLATINA"
+  },
+  {
+    "url":"http://www.eafcrato.gov.br",
+    "dominio":"eafcrato.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE CRATO"
+  },
+  {
+    "url":"http://www.eafguanambi.gov.br",
+    "dominio":"eafguanambi.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL ANTONIO JOSE TEIXEIRA"
+  },
+  {
+    "url":"http://www.eafi.gov.br",
+    "dominio":"eafi.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE INCONFIDENTES"
+  },
+  {
+    "url":"http://www.eafigt.gov.br",
+    "dominio":"eafigt.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE IGUATU-C"
+  },
+  {
+    "url":"http://www.eafmachado.gov.br",
+    "dominio":"eafmachado.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE MACHADO"
+  },
+  {
+    "url":"http://www.eafmanaus.gov.br",
+    "dominio":"eafmanaus.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE MANAUS"
+  },
+  {
+    "url":"http://www.eafmuz.gov.br",
+    "dominio":"eafmuz.gov.br",
+    "nome":"INSTITUTO FEDERAL SUL DE MINAS GERAIS"
+  },
+  {
+    "url":"http://www.eafrs.gov.br",
+    "dominio":"eafrs.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE RIO DO SUL"
+  },
+  {
+    "url":"http://www.eafs.gov.br",
+    "dominio":"eafs.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SATUBA - AL"
+  },
+  {
+    "url":"http://www.eafsb.gov.br",
+    "dominio":"eafsb.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SENHOR DO BONFIM"
+  },
+  {
+    "url":"http://www.eafsc.gov.br",
+    "dominio":"eafsc.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SAO CRISTOVAO - SE"
+  },
+  {
+    "url":"http://www.eafsertao.gov.br",
+    "dominio":"eafsertao.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SETAO"
+  },
+  {
+    "url":"http://www.eafsgc.gov.br",
+    "dominio":"eafsgc.gov.br",
+    "nome":"ESCOLA AGROTEC FED DE SAO GABRIEL DA CACHOEIRA"
+  },
+  {
+    "url":"http://www.eafsi.gov.br",
+    "dominio":"eafsi.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SANTA INES - BAHIA"
+  },
+  {
+    "url":"http://www.eafsl.gov.br",
+    "dominio":"eafsl.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SAO LUIZ"
+  },
+  {
+    "url":"http://www.eafsombrio.gov.br",
+    "dominio":"eafsombrio.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SOMBRIO"
+  },
+  {
+    "url":"http://www.eafspb.gov.br",
+    "dominio":"eafspb.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SOUSA"
+  },
+  {
+    "url":"http://www.eafsrbonfim.gov.br",
+    "dominio":"eafsrbonfim.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SENHOR DO BONFIM"
+  },
+  {
+    "url":"http://www.eafst.gov.br",
+    "dominio":"eafst.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE SANTA TERESA"
+  },
+  {
+    "url":"http://www.eafuberaba.gov.br",
+    "dominio":"eafuberaba.gov.br",
+    "nome":"CEFET CENTRO FED EDUCACAO TECNOLOGICA DE UBERABA"
+  },
+  {
+    "url":"http://www.eafudi.gov.br",
+    "dominio":"eafudi.gov.br",
+    "nome":"ESCOLA AGROTECNICA FEDERAL DE UBERLANDIA"
+  },
+  {
+    "url":"http://www.eafvsa.gov.br",
+    "dominio":"eafvsa.gov.br",
+    "nome":"INSTITUTO FEDERAL DE PERNAMBUCO CAMPUS VITORIA"
+  },
+  {
+    "url":"http://www.ebndes.gov.br",
+    "dominio":"ebndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.ec.gov.br",
+    "dominio":"ec.gov.br",
+    "nome":"MINISTERIO DA SAUDE"
+  },
+  {
+    "url":"http://www.ecobrancacaixa.gov.br",
+    "dominio":"ecobrancacaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.economizar.gov.br",
+    "dominio":"economizar.gov.br",
+    "nome":"PETROLEO BRASILEIRO S.A. - PETROBRAS"
+  },
+  {
+    "url":"http://www.ect.gov.br",
+    "dominio":"ect.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+  },
+  {
+    "url":"http://www.edemocracia.gov.br",
+    "dominio":"edemocracia.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.educacao.gov.br",
+    "dominio":"educacao.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO E DO DESPORTO"
+  },
+  {
+    "url":"http://www.educacaofiscal.gov.br",
+    "dominio":"educacaofiscal.gov.br",
+    "nome":"ESCOLA DE ADMINISTRACAO FAZENDARIA"
+  },
+  {
+    "url":"http://www.educacion.gov.br",
+    "dominio":"educacion.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO E DO DESPORTO"
+  },
+  {
+    "url":"http://www.education.gov.br",
+    "dominio":"education.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO E DO DESPORTO"
+  },
+  {
+    "url":"http://www.egressos-esaf.gov.br",
+    "dominio":"egressos-esaf.gov.br",
+    "nome":"ESCOLA DE ADMINISTRACAO FAZENDARIA"
+  },
+  {
+    "url":"http://www.eixos.gov.br",
+    "dominio":"eixos.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.eleicoes.gov.br",
+    "dominio":"eleicoes.gov.br",
+    "nome":"TRIBUNAL SUPERIOR ELEITORAL"
+  },
+  {
+    "url":"http://www.eletrobras.gov.br",
+    "dominio":"eletrobras.gov.br",
+    "nome":"CENTRAIS ELETRICAS BRASILEIRAS SA"
+  },
+  {
+    "url":"http://www.eletrofurnas.gov.br",
+    "dominio":"eletrofurnas.gov.br",
+    "nome":"FURNAS CENTRAIS ELETRICAS S.A."
+  },
+  {
+    "url":"http://www.eletronorte.gov.br",
+    "dominio":"eletronorte.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.eletronuclear.gov.br",
+    "dominio":"eletronuclear.gov.br",
+    "nome":"ELETROBRAS TERMONUCLEAR SA "
+  },
+  {
+    "url":"http://www.eletrosul.gov.br",
+    "dominio":"eletrosul.gov.br",
+    "nome":"ELETROSUL CENTRAIS ELETRICAS S.A."
+  },
+  {
+    "url":"http://www.eln.gov.br",
+    "dominio":"eln.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.embrapa.gov.br",
+    "dominio":"embrapa.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA"
+  },
+  {
+    "url":"http://www.embratur.gov.br",
+    "dominio":"embratur.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.emgea.gov.br",
+    "dominio":"emgea.gov.br",
+    "nome":"EMPRESA GESTORA DE ATIVOS - EMGEA"
+  },
+  {
+    "url":"http://www.emprel.gov.br",
+    "dominio":"emprel.gov.br",
+    "nome":"EMPREL - EMPRESA MUNICIPAL DE INFORMATICA"
+  },
+  {
+    "url":"http://www.emquestao.gov.br",
+    "dominio":"emquestao.gov.br",
+    "nome":"SECRETARIA DE COMUNICACAO SOCIAL"
+  },
+  {
+    "url":"http://www.enamat.gov.br",
+    "dominio":"enamat.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.enap.gov.br",
+    "dominio":"enap.gov.br",
+    "nome":"MINISTERIO DA ADM. FEDERAL E REFORMA DO ESTADO"
+  },
+  {
+    "url":"http://www.enccla.gov.br",
+    "dominio":"enccla.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.encomex.gov.br",
+    "dominio":"encomex.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.energiaboavista.gov.br",
+    "dominio":"energiaboavista.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.energiabrasil.gov.br",
+    "dominio":"energiabrasil.gov.br",
+    "nome":"MINISTERIO DE MINAS E ENERGIA"
+  },
+  {
+    "url":"http://www.epl.gov.br",
+    "dominio":"epl.gov.br",
+    "nome":"EMPRESA DE PLANEJAMENTO E LOGISTICA S A - EPL"
+  },
+  {
+    "url":"http://www.empresa.gov.br",
+    "dominio":"empresa.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.empresasimples.gov.br",
+    "dominio":"empresasimples.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.fab.gov.br",
+    "dominio":"fab.gov.br",
+    "nome":"CENTRO DE COMPUTACAO DA AERONAUTICA DE BRASILIA"
+  },
+  {
+    "url":"http://www.faesa-oscip.gov.br",
+    "dominio":"faesa-oscip.gov.br",
+    "nome":"FEDERACAO DAS ASSOC. E ENTID. P/ DESENV. SEMIARIDO"
+  },
+  {
+    "url":"http://www.faroldodesenvolvimento.gov.br",
+    "dominio":"faroldodesenvolvimento.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.fat.gov.br",
+    "dominio":"fat.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.fazenda.gov.br",
+    "dominio":"fazenda.gov.br",
+    "nome":"MINISTERIO DA FAZENDA"
+  },
+  {
+    "url":"http://www.federal.gov.br",
+    "dominio":"federal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.federalcap.gov.br",
+    "dominio":"federalcap.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.federalcard.gov.br",
+    "dominio":"federalcard.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.federativo.gov.br",
+    "dominio":"federativo.gov.br",
+    "nome":"IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA"
+  },
+  {
+    "url":"http://www.fgts.gov.br",
+    "dominio":"fgts.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.fhdf.gov.br",
+    "dominio":"fhdf.gov.br",
+    "nome":"SECRETARIA DE SAUDE DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.fibge.gov.br",
+    "dominio":"fibge.gov.br",
+    "nome":"FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE"
+  },
+  {
+    "url":"http://www.finame.gov.br",
+    "dominio":"finame.gov.br",
+    "nome":"AGENCIA ESPECIAL DE FINANCIAMENTO INDUSTRIAL"
+  },
+  {
+    "url":"http://www.finep.gov.br",
+    "dominio":"finep.gov.br",
+    "nome":"FINACIADORA DE ESTUDOS E PROJETOS"
+  },
+  {
+    "url":"http://www.fiscalizacopa2014.gov.br",
+    "dominio":"fiscalizacopa2014.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.fiscopa2014.gov.br",
+    "dominio":"fiscopa2014.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.fjp.gov.br",
+    "dominio":"fjp.gov.br",
+    "nome":"FUNDACAO JOAO PINHEIRO"
+  },
+  {
+    "url":"http://www.florestal.gov.br",
+    "dominio":"florestal.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.fnde.gov.br",
+    "dominio":"fnde.gov.br",
+    "nome":"FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO"
+  },
+  {
+    "url":"http://www.fns-es.gov.br",
+    "dominio":"fns-es.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.fns-sc.gov.br",
+    "dominio":"fns-sc.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE - COORDENACAO REGIONAL"
+  },
+  {
+    "url":"http://www.fns.gov.br",
+    "dominio":"fns.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.fnsms.gov.br",
+    "dominio":"fnsms.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.focco-pb.gov.br",
+    "dominio":"focco-pb.gov.br",
+    "nome":"PROCURADORIA DA REPUBLICA NA PARAIBA"
+  },
+  {
+    "url":"http://www.foccopb.gov.br",
+    "dominio":"foccopb.gov.br",
+    "nome":"PROCURADORIA DA REPUBLICA NA PARAIBA"
+  },
+  {
+    "url":"http://www.fomezero.gov.br",
+    "dominio":"fomezero.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.fonoaudiologia-1.gov.br",
+    "dominio":"fonoaudiologia-1.gov.br",
+    "nome":"CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO"
+  },
+  {
+    "url":"http://www.fonoaudiologia-rj.gov.br",
+    "dominio":"fonoaudiologia-rj.gov.br",
+    "nome":"CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO"
+  },
+  {
+    "url":"http://www.forumpermanente.gov.br",
+    "dominio":"forumpermanente.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.forumsipec.gov.br",
+    "dominio":"forumsipec.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.forumsocinfo.gov.br",
+    "dominio":"forumsocinfo.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.frameworkdemoiselle.gov.br",
+    "dominio":"frameworkdemoiselle.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.frp.gov.br",
+    "dominio":"frp.gov.br",
+    "nome":"FUNDACAO ROQUETTE PINTO"
+  },
+  {
+    "url":"http://www.funag.gov.br",
+    "dominio":"funag.gov.br",
+    "nome":"FUNDACAO ALEXANDRE DE GUSMAO"
+  },
+  {
+    "url":"http://www.funai.gov.br",
+    "dominio":"funai.gov.br",
+    "nome":"FUNDACAO NACIONAL DO INDIO"
+  },
+  {
+    "url":"http://www.funarte.gov.br",
+    "dominio":"funarte.gov.br",
+    "nome":"FUNDACAO NACIONAL DE ARTES"
+  },
+  {
+    "url":"http://www.funasa-sc.gov.br",
+    "dominio":"funasa-sc.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE - COORDENACAO REGIONAL"
+  },
+  {
+    "url":"http://www.funasa.gov.br",
+    "dominio":"funasa.gov.br",
+    "nome":"FUNDACAO NACIONAL DE SAUDE"
+  },
+  {
+    "url":"http://www.fundacentro-ba.gov.br",
+    "dominio":"fundacentro-ba.gov.br",
+    "nome":"FUNDACAO JORGE DUPRAT FIGUEIREDO DE SEG.E MED.TRAB"
+  },
+  {
+    "url":"http://www.fundacentro-es.gov.br",
+    "dominio":"fundacentro-es.gov.br",
+    "nome":"FUND. JORGE DUPRAT FIGUEIREDO DE SEG. MED TRABALHO"
+  },
+  {
+    "url":"http://www.fundacentro-pe.gov.br",
+    "dominio":"fundacentro-pe.gov.br",
+    "nome":"FUNDACENTRO - FUNDACAO JORGE DUPRAT FIGUEIREDO DE"
+  },
+  {
+    "url":"http://www.fundacentro.gov.br",
+    "dominio":"fundacentro.gov.br",
+    "nome":"FUNDACENTRO - FUNDACAO JORGE DUPRAT FIGUEIREDO"
+  },
+  {
+    "url":"http://www.fundacentroms.gov.br",
+    "dominio":"fundacentroms.gov.br",
+    "nome":"FUNDACAO JORGE DUPRAT FIGUEIREDO DE SEG "
+  },
+  {
+    "url":"http://www.fundacentrorj.gov.br",
+    "dominio":"fundacentrorj.gov.br",
+    "nome":"FUNDACAO J. D. F. DE SEG. E MEDICINA DO TRABALHO"
+  },
+  {
+    "url":"http://www.fundaj.gov.br",
+    "dominio":"fundaj.gov.br",
+    "nome":"FUNDACAO JOAQUIM NABUCO"
+  },
+  {
+    "url":"http://www.fundoamazonia-bndes.gov.br",
+    "dominio":"fundoamazonia-bndes.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.fundoamazonia.gov.br",
+    "dominio":"fundoamazonia.gov.br",
+    "nome":"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI"
+  },
+  {
+    "url":"http://www.furnas.gov.br",
+    "dominio":"furnas.gov.br",
+    "nome":"FURNAS CENTRAIS ELETRICAS S.A."
+  },
+  {
+    "url":"http://www.fimdotrabalhoinfantil.gov.br",
+    "dominio":"fimdotrabalhoinfantil.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO SOCIAL E COMBATE A FOME"
+  },
+  {
+    "url":"http://www.funpresp-exe.gov.br",
+    "dominio":"funpresp-exe.gov.br",
+    "nome":"FUNDACAO DE PREVIDENCIA COMPLEMENTAR DO SERVIDOR PUBLICO FEDERAL DO PODER EXECUTIVO"
+  },
+  {
+    "url":"http://www.funpresp.gov.br",
+    "dominio":"funpresp.gov.br",
+    "nome":"FUNDACAO DE PREVIDENCIA COMPLEMENTAR DO SERVIDOR PUBLICO FEDERAL DO PODER EXECUTIVO"
+  },
+  {
+    "url":"http://www.fbn.gov.br",
+    "dominio":"fbn.gov.br",
+    "nome":"FUNDACAO BIBLIOTECA NACIONAL"
+  },
+  {
+    "url":"http://www.fiscalizacaorio2016.gov.br",
+    "dominio":"fiscalizacaorio2016.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.fiscalizario2016.gov.br",
+    "dominio":"fiscalizario2016.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.gcth-sida.gov.br",
+    "dominio":"gcth-sida.gov.br",
+    "nome":"MINISTERIO DA SAUDE"
+  },
+  {
+    "url":"http://www.gdf.gov.br",
+    "dominio":"gdf.gov.br",
+    "nome":"GOVERNO DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.gdfaz.gov.br",
+    "dominio":"gdfaz.gov.br",
+    "nome":"ESCOLA DE ADMINISTRACAO FAZENDARIA"
+  },
+  {
+    "url":"http://www.geipot.gov.br",
+    "dominio":"geipot.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE PLANEJAMENTO DE"
+  },
+  {
+    "url":"http://www.genero.gov.br",
+    "dominio":"genero.gov.br",
+    "nome":"SECRETARIA DE COMUNICACAO SOCIAL"
+  },
+  {
+    "url":"http://www.geres.gov.br",
+    "dominio":"geres.gov.br",
+    "nome":"GRUPO EXECUTIVO P RECUP ECON DO EST ESP SANTO"
+  },
+  {
+    "url":"http://www.gesac.gov.br",
+    "dominio":"gesac.gov.br",
+    "nome":"MINISTERIO DAS COMUNICACOES"
+  },
+  {
+    "url":"http://www.gespublica.gov.br",
+    "dominio":"gespublica.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.gestaopublica.gov.br",
+    "dominio":"gestaopublica.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.gnre.gov.br",
+    "dominio":"gnre.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.go.gov.br",
+    "dominio":"go.gov.br",
+    "nome":"FUNDACAO DE APOIO A PESQUISA - UFG"
+  },
+  {
+    "url":"http://www.goias.gov.br",
+    "dominio":"goias.gov.br",
+    "nome":"AGENCIA GOIANA DE ADMINISTRACAO E NEGOCIOS PUBLICO"
+  },
+  {
+    "url":"http://www.govbankingcaixa.gov.br",
+    "dominio":"govbankingcaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.governoeletronico.gov.br",
+    "dominio":"governoeletronico.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRA"
+  },
+  {
+    "url":"http://www.gra.gov.br",
+    "dominio":"gra.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.gsi.gov.br",
+    "dominio":"gsi.gov.br",
+    "nome":"GABINETE DE SEGURANCA INSTITUCIONAL DA PRESIDENCIA"
+  },
+  {
+    "url":"http://www.guiafacilgps.gov.br",
+    "dominio":"guiafacilgps.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.gestaoemdestaque.gov.br",
+    "dominio":"gestaoemdestaque.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.govbrasil.gov.br",
+    "dominio":"govbrasil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.guiadeservicos.gov.br",
+    "dominio":"guiadeservicos.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.hasp.gov.br",
+    "dominio":"hasp.gov.br",
+    "nome":"HOSPITAL DA AERONAUTICA DE SAO PAULO"
+  },
+  {
+    "url":"http://www.hcl.gov.br",
+    "dominio":"hcl.gov.br",
+    "nome":"INSTITUTO NACIONAL DE CARDIOLOGIA DE LARANJEIRAS"
+  },
+  {
+    "url":"http://www.hemobras.gov.br",
+    "dominio":"hemobras.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGI"
+  },
+  {
+    "url":"http://www.hgb.gov.br",
+    "dominio":"hgb.gov.br",
+    "nome":"HOSPITAL GERAL DE BONSUCESSO"
+  },
+  {
+    "url":"http://www.hpiedade.gov.br",
+    "dominio":"hpiedade.gov.br",
+    "nome":"HOSPITAL DA PIEDADE"
+  },
+  {
+    "url":"http://www.hrps.gov.br",
+    "dominio":"hrps.gov.br",
+    "nome":"HOSPITAL RAPHAEL DE PAULA SOUZA"
+  },
+  {
+    "url":"http://www.ibama-pi.gov.br",
+    "dominio":"ibama-pi.gov.br",
+    "nome":"IBAMA - GERENCIA EXECUTIVA ESTADUAL"
+  },
+  {
+    "url":"http://www.ibama.gov.br",
+    "dominio":"ibama.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.ibamanet.gov.br",
+    "dominio":"ibamanet.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.ibc.gov.br",
+    "dominio":"ibc.gov.br",
+    "nome":"INSTITUTO BENJAMIN CONSTANT"
+  },
+  {
+    "url":"http://www.ibge.gov.br",
+    "dominio":"ibge.gov.br",
+    "nome":"FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE"
+  },
+  {
+    "url":"http://www.ibge2.gov.br",
+    "dominio":"ibge2.gov.br",
+    "nome":"IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA"
+  },
+  {
+    "url":"http://www.ibram.gov.br",
+    "dominio":"ibram.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE MUSEUS - IBRAM"
+  },
+  {
+    "url":"http://www.ic-brazil.gov.br",
+    "dominio":"ic-brazil.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA DA INFORMACAO RENATO ARCHER"
+  },
+  {
+    "url":"http://www.icea.gov.br",
+    "dominio":"icea.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO"
+  },
+  {
+    "url":"http://www.icmbio.gov.br",
+    "dominio":"icmbio.gov.br",
+    "nome":"INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE"
+  },
+  {
+    "url":"http://www.icpbrasil.gov.br",
+    "dominio":"icpbrasil.gov.br",
+    "nome":"INSTITUTO NACIONAL DE TECNOLOGIA INFORMACAO - ITI"
+  },
+  {
+    "url":"http://www.idbrasil.gov.br",
+    "dominio":"idbrasil.gov.br",
+    "nome":"MINISTERIO DAS COMUNICACOES"
+  },
+  {
+    "url":"http://www.ien.gov.br",
+    "dominio":"ien.gov.br",
+    "nome":"INSTITUTO DE ENGENHARIA NUCLEAR"
+  },
+  {
+    "url":"http://www.igam.gov.br",
+    "dominio":"igam.gov.br",
+    "nome":"INSTITUTO MINEIRO DE GESTAO DAS AGUAS"
+  },
+  {
+    "url":"http://www.igualdaderacial.gov.br",
+    "dominio":"igualdaderacial.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG"
+  },
+  {
+    "url":"http://www.ilbsenado.gov.br",
+    "dominio":"ilbsenado.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE EDITORA"
+  },
+  {
+    "url":"http://www.imbel.gov.br",
+    "dominio":"imbel.gov.br",
+    "nome":"INDUSTRIA DE MATERIAL BELICO DO BRASIL - IMBEL"
+  },
+  {
+    "url":"http://www.imprensanacional.gov.br",
+    "dominio":"imprensanacional.gov.br",
+    "nome":"IMPRENSA NACIONAL/PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.in.gov.br",
+    "dominio":"in.gov.br",
+    "nome":"IMPRENSA NACIONAL/PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.inb.gov.br",
+    "dominio":"inb.gov.br",
+    "nome":"INDUSTRIAS NUCLEARES DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.inca.gov.br",
+    "dominio":"inca.gov.br",
+    "nome":"INSTITUTO NACIONAL DO CANCER"
+  },
+  {
+    "url":"http://www.inclusaodigital.gov.br",
+    "dominio":"inclusaodigital.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.incra-pe.gov.br",
+    "dominio":"incra-pe.gov.br",
+    "nome":"SUPERINT. ESTADUAL DE PERNAMBUCO - INCRA"
+  },
+  {
+    "url":"http://www.incra.gov.br",
+    "dominio":"incra.gov.br",
+    "nome":"INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA"
+  },
+  {
+    "url":"http://www.incrarn.gov.br",
+    "dominio":"incrarn.gov.br",
+    "nome":"INSTITUTO NACIONAL DE COLONIZACAO E REF. AGRARIA"
+  },
+  {
+    "url":"http://www.inde.gov.br",
+    "dominio":"inde.gov.br",
+    "nome":"FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE"
+  },
+  {
+    "url":"http://www.inep.gov.br",
+    "dominio":"inep.gov.br",
+    "nome":"INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO"
+  },
+  {
+    "url":"http://www.ines.gov.br",
+    "dominio":"ines.gov.br",
+    "nome":"INSTITUTO NACIONAL DE EDUCACAO DE SURDOS"
+  },
+  {
+    "url":"http://www.infoconsumo.gov.br",
+    "dominio":"infoconsumo.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.infojus.gov.br",
+    "dominio":"infojus.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.infopen.gov.br",
+    "dominio":"infopen.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.informacaoecidadania.gov.br",
+    "dominio":"informacaoecidadania.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.infoseg.gov.br",
+    "dominio":"infoseg.gov.br",
+    "nome":"SECRETARIA NACIONAL DE SEGURANCA PUBLICA"
+  },
+  {
+    "url":"http://www.infosoc.gov.br",
+    "dominio":"infosoc.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE INFORMACAO EM C&T"
+  },
+  {
+    "url":"http://www.infra-estruturabrasil.gov.br",
+    "dominio":"infra-estruturabrasil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.infraero.gov.br",
+    "dominio":"infraero.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.infraestruturabrasil.gov.br",
+    "dominio":"infraestruturabrasil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.infrastructurebrazil.gov.br",
+    "dominio":"infrastructurebrazil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.inmet.gov.br",
+    "dominio":"inmet.gov.br",
+    "nome":"INSTITUTO NACIONAL DE METEOROLOGIA"
+  },
+  {
+    "url":"http://www.inmetro-es.gov.br",
+    "dominio":"inmetro-es.gov.br",
+    "nome":"INST. NAC. METROL., NORMAL. E QUAL. IND. REPR. ES"
+  },
+  {
+    "url":"http://www.inmetro-sc.gov.br",
+    "dominio":"inmetro-sc.gov.br",
+    "nome":"INST NAC METROLOGIA E NORM IND"
+  },
+  {
+    "url":"http://www.inmetro.gov.br",
+    "dominio":"inmetro.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.inmetrogo.gov.br",
+    "dominio":"inmetrogo.gov.br",
+    "nome":"SUPERINTENDENCIA REGIONAL DO INMETRO SUR-01/GO"
+  },
+  {
+    "url":"http://www.inpa.gov.br",
+    "dominio":"inpa.gov.br",
+    "nome":"INSTITUTO NACIONAL DE PESQUISAS DA AMAZONIA"
+  },
+  {
+    "url":"http://www.inpe.gov.br",
+    "dominio":"inpe.gov.br",
+    "nome":"INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS"
+  },
+  {
+    "url":"http://www.inpi.gov.br",
+    "dominio":"inpi.gov.br",
+    "nome":"INPI - INSTITUTO NAC. DA PROPRIEDADE INDUSTRIAL"
+  },
+  {
+    "url":"http://www.insa.gov.br",
+    "dominio":"insa.gov.br",
+    "nome":"INSTITUTO NACIONAL DO SEMI-ARIDO-INSA"
+  },
+  {
+    "url":"http://www.inss.gov.br",
+    "dominio":"inss.gov.br",
+    "nome":"DATAPREV DF"
+  },
+  {
+    "url":"http://www.insstelecom.gov.br",
+    "dominio":"insstelecom.gov.br",
+    "nome":"INSTITUTO NACIONAL DO SEGURO SOCIAL"
+  },
+  {
+    "url":"http://www.instantanea.gov.br",
+    "dominio":"instantanea.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.institutochicomendes.gov.br",
+    "dominio":"institutochicomendes.gov.br",
+    "nome":"INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE"
+  },
+  {
+    "url":"http://www.int.gov.br",
+    "dominio":"int.gov.br",
+    "nome":"INSTITUTO NACIONAL DE TECNOLOGIA"
+  },
+  {
+    "url":"http://www.integracao.gov.br",
+    "dominio":"integracao.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.interlegis.gov.br",
+    "dominio":"interlegis.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.investcaixa.gov.br",
+    "dominio":"investcaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.investecaixa.gov.br",
+    "dominio":"investecaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.investidor.gov.br",
+    "dominio":"investidor.gov.br",
+    "nome":"CVM - COMISSAO DE VALORES MOBILIARIOS"
+  },
+  {
+    "url":"http://www.investidoresinstitucionais.gov.br",
+    "dominio":"investidoresinstitucionais.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.investinbrazil.gov.br",
+    "dominio":"investinbrazil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.ipardes.gov.br",
+    "dominio":"ipardes.gov.br",
+    "nome":"INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONOMICO"
+  },
+  {
+    "url":"http://www.ipea.gov.br",
+    "dominio":"ipea.gov.br",
+    "nome":"IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA"
+  },
+  {
+    "url":"http://www.ipeadata.gov.br",
+    "dominio":"ipeadata.gov.br",
+    "nome":"IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA"
+  },
+  {
+    "url":"http://www.iphan.gov.br",
+    "dominio":"iphan.gov.br",
+    "nome":"INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NAC."
+  },
+  {
+    "url":"http://www.ipp.gov.br",
+    "dominio":"ipp.gov.br",
+    "nome":"INSTITUTO PHILIPPE PINEL"
+  },
+  {
+    "url":"http://www.ipsm.gov.br",
+    "dominio":"ipsm.gov.br",
+    "nome":"INSTITUTO DE PREVIDENCIA DOS SERVIDORES MILITARES"
+  },
+  {
+    "url":"http://www.irb-brasilre.gov.br",
+    "dominio":"irb-brasilre.gov.br",
+    "nome":"IRB - BRASIL RESSEGUROS SA"
+  },
+  {
+    "url":"http://www.irb.gov.br",
+    "dominio":"irb.gov.br",
+    "nome":"IRB - BRASIL RESSEGUROS SA"
+  },
+  {
+    "url":"http://www.irbbrasilre.gov.br",
+    "dominio":"irbbrasilre.gov.br",
+    "nome":"IRB - BRASIL RESSEGUROS SA"
+  },
+  {
+    "url":"http://www.ird.gov.br",
+    "dominio":"ird.gov.br",
+    "nome":"INSTITUTO DE RADIOPROTECAO E DOSIMETRIA"
+  },
+  {
+    "url":"http://www.itaipu.gov.br",
+    "dominio":"itaipu.gov.br",
+    "nome":"ITAIPU BINACIONAL"
+  },
+  {
+    "url":"http://www.itamaraty.gov.br",
+    "dominio":"itamaraty.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.iti.gov.br",
+    "dominio":"iti.gov.br",
+    "nome":"INSTITUTO NACIONAL DE TECNOLOGIA INFORMACAO - ITI"
+  },
+  {
+    "url":"http://www.iec.gov.br",
+    "dominio":"iec.gov.br",
+    "nome":"INSTITUTO EVANDRO CHAGAS"
+  },
+  {
+    "url":"http://www.jbrj.gov.br",
+    "dominio":"jbrj.gov.br",
+    "nome":"INSTITUTO DE PESQUISAS JARDIM BOTANICO DO RIO ="
+  },
+  {
+    "url":"http://www.jef-pr.gov.br",
+    "dominio":"jef-pr.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.jef-rs.gov.br",
+    "dominio":"jef-rs.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.jef-sc.gov.br",
+    "dominio":"jef-sc.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.jf.gov.br",
+    "dominio":"jf.gov.br",
+    "nome":"CONSELHO DA JUSTICA FEDERAL"
+  },
+  {
+    "url":"http://www.jfal.gov.br",
+    "dominio":"jfal.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRA INSTANCIA"
+  },
+  {
+    "url":"http://www.jfce.gov.br",
+    "dominio":"jfce.gov.br",
+    "nome":"JUSTICA FEDERAL DO CEARA"
+  },
+  {
+    "url":"http://www.jfceara.gov.br",
+    "dominio":"jfceara.gov.br",
+    "nome":"JUSTICA FED DE PRIM INST SECAO JUD DO CEARA"
+  },
+  {
+    "url":"http://www.jfes.gov.br",
+    "dominio":"jfes.gov.br",
+    "nome":"JUSTICA FEDERAL DE 1 GRAU NO ESPIRITO SANTO"
+  },
+  {
+    "url":"http://www.jfms.gov.br",
+    "dominio":"jfms.gov.br",
+    "nome":"JUSTICA FEDERAL DE 1 INSTANCIA"
+  },
+  {
+    "url":"http://www.jfpb.gov.br",
+    "dominio":"jfpb.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRA INSTANCIA"
+  },
+  {
+    "url":"http://www.jfpe.gov.br",
+    "dominio":"jfpe.gov.br",
+    "nome":"JUSTICA FEDERAL DE 1A INSTANCIA"
+  },
+  {
+    "url":"http://www.jfpr.gov.br",
+    "dominio":"jfpr.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO PARANA"
+  },
+  {
+    "url":"http://www.jfrj.gov.br",
+    "dominio":"jfrj.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RIO DE JANEIR"
+  },
+  {
+    "url":"http://www.jfrn.gov.br",
+    "dominio":"jfrn.gov.br",
+    "nome":"JUSTICA FEDERAL DO RIO GRANDE DO NORTE "
+  },
+  {
+    "url":"http://www.jfrs.gov.br",
+    "dominio":"jfrs.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.jfsc.gov.br",
+    "dominio":"jfsc.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU EM SANTA CATARINA"
+  },
+  {
+    "url":"http://www.jfse.gov.br",
+    "dominio":"jfse.gov.br",
+    "nome":"JUSTICA FEDERAL - SECAO JUDICIARIA DO ESTADO DE SE"
+  },
+  {
+    "url":"http://www.jfsp.gov.br",
+    "dominio":"jfsp.gov.br",
+    "nome":"JUSTICA FEDERAL DE SAO PAULO "
+  },
+  {
+    "url":"http://www.jornadasdip.gov.br",
+    "dominio":"jornadasdip.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES DCD"
+  },
+  {
+    "url":"http://www.jt.gov.br",
+    "dominio":"jt.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.justica.gov.br",
+    "dominio":"justica.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.justicadotrabalho.gov.br",
+    "dominio":"justicadotrabalho.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.justicaeleitoral.gov.br",
+    "dominio":"justicaeleitoral.gov.br",
+    "nome":"TRIBUNAL SUPERIOR ELEITORAL"
+  },
+  {
+    "url":"http://www.justicafederal.gov.br",
+    "dominio":"justicafederal.gov.br",
+    "nome":"CONSELHO DA JUSTICA FEDERAL"
+  },
+  {
+    "url":"http://www.justra.gov.br",
+    "dominio":"justra.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.juventude.gov.br",
+    "dominio":"juventude.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.jcdf.gov.br",
+    "dominio":"jcdf.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.justiça.gov.br",
+    "dominio":"justiça.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.lapa-pe.gov.br",
+    "dominio":"lapa-pe.gov.br",
+    "nome":"MINISTERIO DA AGRICULTURA - DFA - LAPA - RECIFE"
+  },
+  {
+    "url":"http://www.laracps.gov.br",
+    "dominio":"laracps.gov.br",
+    "nome":"LABORATORIO REGIONAL DE APOIO ANIMAL"
+  },
+  {
+    "url":"http://www.lexml.gov.br",
+    "dominio":"lexml.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.linea.gov.br",
+    "dominio":"linea.gov.br",
+    "nome":"LABORATORIO NACIONAL DE COMPUTACAO CIENTIFICA"
+  },
+  {
+    "url":"http://www.linuxseguro.gov.br",
+    "dominio":"linuxseguro.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.lojacaixa.gov.br",
+    "dominio":"lojacaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loteca.gov.br",
+    "dominio":"loteca.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loteriaesportiva.gov.br",
+    "dominio":"loteriaesportiva.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loteriafederal.gov.br",
+    "dominio":"loteriafederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loterias.gov.br",
+    "dominio":"loterias.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loteriascaixa.gov.br",
+    "dominio":"loteriascaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.loto-tauloteriadacopa.gov.br",
+    "dominio":"loto-tauloteriadacopa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.lotofacil.gov.br",
+    "dominio":"lotofacil.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.lotomania.gov.br",
+    "dominio":"lotomania.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.ls.gov.br",
+    "dominio":"ls.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.labcluster.gov.br",
+    "dominio":"labcluster.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.logisticabrasil.gov.br",
+    "dominio":"logisticabrasil.gov.br",
+    "nome":"EMPRESA DE PLANEJAMENTO E LOGISTICA S A - EPL"
+  },
+  {
+    "url":"http://www.logisticsbrazil.gov.br",
+    "dominio":"logisticsbrazil.gov.br",
+    "nome":"EMPRESA DE PLANEJAMENTO E LOGISTICA S A - EPL"
+  },
+  {
+    "url":"http://www.ma.gov.br",
+    "dominio":"ma.gov.br",
+    "nome":"SEPLAN - GOVERNO DO ESTADO DO MARANHAO"
+  },
+  {
+    "url":"http://www.maerj.gov.br",
+    "dominio":"maerj.gov.br",
+    "nome":"DEPARTAMENTO DE CONTROLE DO ESPACO AEREO - SDTI"
+  },
+  {
+    "url":"http://www.maisambiente.gov.br",
+    "dominio":"maisambiente.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.maisbrasil.gov.br",
+    "dominio":"maisbrasil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.manausenergia.gov.br",
+    "dominio":"manausenergia.gov.br",
+    "nome":"MANAUS ENERGIA S/A"
+  },
+  {
+    "url":"http://www.maranhao.gov.br",
+    "dominio":"maranhao.gov.br",
+    "nome":"SEPLAN - GOVERNO DO ESTADO DO MARANHAO"
+  },
+  {
+    "url":"http://www.marinha.gov.br",
+    "dominio":"marinha.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA DA INFORMACAO DA MARINHA"
+  },
+  {
+    "url":"http://www.mb.gov.br",
+    "dominio":"mb.gov.br",
+    "nome":"CENTRO DE TECNOLOGIA DA INFORMACAO DA MARINHA"
+  },
+  {
+    "url":"http://www.mc.gov.br",
+    "dominio":"mc.gov.br",
+    "nome":"MINISTERIO DAS COMUNICACOES"
+  },
+  {
+    "url":"http://www.mct.gov.br",
+    "dominio":"mct.gov.br",
+    "nome":"MINISTERIO DA CIENCIA E TECNOLOGIA"
+  },
+  {
+    "url":"http://www.mda.gov.br",
+    "dominio":"mda.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.mdic.gov.br",
+    "dominio":"mdic.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.mds.gov.br",
+    "dominio":"mds.gov.br",
+    "nome":"DTI/SE/MDS E COMBATE A FOME"
+  },
+  {
+    "url":"http://www.mec.gov.br",
+    "dominio":"mec.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO"
+  },
+  {
+    "url":"http://www.mega-sena.gov.br",
+    "dominio":"mega-sena.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.megasena.gov.br",
+    "dominio":"megasena.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.meioambiente.gov.br",
+    "dominio":"meioambiente.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.meioambientedobrasil.gov.br",
+    "dominio":"meioambientedobrasil.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.memoriasreveladas.gov.br",
+    "dominio":"memoriasreveladas.gov.br",
+    "nome":"ARQUIVO NACIONAL"
+  },
+  {
+    "url":"http://www.mercadopublico.gov.br",
+    "dominio":"mercadopublico.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.mercosul.gov.br",
+    "dominio":"mercosul.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.metrobh.gov.br",
+    "dominio":"metrobh.gov.br",
+    "nome":"COMPANHIA BRASILEIRA DE TRENS URBANOS"
+  },
+  {
+    "url":"http://www.mg.gov.br",
+    "dominio":"mg.gov.br",
+    "nome":"COMPANHIA DE TECNOLOGIA DA INFORMACAO ESTADO MG"
+  },
+  {
+    "url":"http://www.mi.gov.br",
+    "dominio":"mi.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.mict.gov.br",
+    "dominio":"mict.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.minc.gov.br",
+    "dominio":"minc.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.mincrj.gov.br",
+    "dominio":"mincrj.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.mincsp.gov.br",
+    "dominio":"mincsp.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.minhacasaminhavida.gov.br",
+    "dominio":"minhacasaminhavida.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.ministeriodomeioambiente.gov.br",
+    "dominio":"ministeriodomeioambiente.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.ministeriopublicodf.gov.br",
+    "dominio":"ministeriopublicodf.gov.br",
+    "nome":"MINISTERIO PUBLICO DO DF E TERRITORIOS"
+  },
+  {
+    "url":"http://www.mj.gov.br",
+    "dominio":"mj.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.mls.gov.br",
+    "dominio":"mls.gov.br",
+    "nome":"IPHAN/MUSEU LASAR SEGALL"
+  },
+  {
+    "url":"http://www.mma.gov.br",
+    "dominio":"mma.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.mme.gov.br",
+    "dominio":"mme.gov.br",
+    "nome":"MINISTERIO DE MINAS E ENERGIA"
+  },
+  {
+    "url":"http://www.mnba.gov.br",
+    "dominio":"mnba.gov.br",
+    "nome":"MUSEU NACIONAL DE BELAS ARTES"
+  },
+  {
+    "url":"http://www.monumenta.gov.br",
+    "dominio":"monumenta.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.mp-df.gov.br",
+    "dominio":"mp-df.gov.br",
+    "nome":"MINISTERIO PUBLICO DO DF E TERRITORIOS"
+  },
+  {
+    "url":"http://www.mp.gov.br",
+    "dominio":"mp.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.mpa.gov.br",
+    "dominio":"mpa.gov.br",
+    "nome":"MINISTERIO DA PESCA E AQUICULTURA"
+  },
+  {
+    "url":"http://www.mpas.gov.br",
+    "dominio":"mpas.gov.br",
+    "nome":"MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL"
+  },
+  {
+    "url":"http://www.mpdf.gov.br",
+    "dominio":"mpdf.gov.br",
+    "nome":"MINISTERIO PUBLICO DO DF E TERRITORIOS"
+  },
+  {
+    "url":"http://www.mpdft.gov.br",
+    "dominio":"mpdft.gov.br",
+    "nome":"MINISTERIO PUBLICO DO DF E TERRITORIOS"
+  },
+  {
+    "url":"http://www.mpes.gov.br",
+    "dominio":"mpes.gov.br",
+    "nome":"MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO"
+  },
+  {
+    "url":"http://www.mpf.gov.br",
+    "dominio":"mpf.gov.br",
+    "nome":"MINISTERIO PUBLICO FEDERAL - PROCURADORIA GERAL DA"
+  },
+  {
+    "url":"http://www.mpm.gov.br",
+    "dominio":"mpm.gov.br",
+    "nome":"MINISTERIO PUBLICO MILITAR"
+  },
+  {
+    "url":"http://www.mps.gov.br",
+    "dominio":"mps.gov.br",
+    "nome":"MINISTERIO DA PREVIDENCIA SOCIAL"
+  },
+  {
+    "url":"http://www.mpt.gov.br",
+    "dominio":"mpt.gov.br",
+    "nome":"MINISTERIO PUBLICO DO TRABALHO"
+  },
+  {
+    "url":"http://www.mpu.gov.br",
+    "dominio":"mpu.gov.br",
+    "nome":"MINISTERIO PUBLICO DA UNIAO"
+  },
+  {
+    "url":"http://www.mre.gov.br",
+    "dominio":"mre.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.ms.gov.br",
+    "dominio":"ms.gov.br",
+    "nome":"GOVERNO DO ESTADO DE MATO GROSSO DO SUL"
+  },
+  {
+    "url":"http://www.mt.gov.br",
+    "dominio":"mt.gov.br",
+    "nome":"MATO GROSSO GOVERNO DO ESTADO"
+  },
+  {
+    "url":"http://www.mtb.gov.br",
+    "dominio":"mtb.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mtbauru.gov.br",
+    "dominio":"mtbauru.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mtbe.gov.br",
+    "dominio":"mtbe.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mte.gov.br",
+    "dominio":"mte.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mtecbo.gov.br",
+    "dominio":"mtecbo.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mtecbo2000.gov.br",
+    "dominio":"mtecbo2000.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.mtur.gov.br",
+    "dominio":"mtur.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.mulheres.gov.br",
+    "dominio":"mulheres.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS PARA AS MULHERES"
+  },
+  {
+    "url":"http://www.mulhergoverno.gov.br",
+    "dominio":"mulhergoverno.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.museudainconfidencia.gov.br",
+    "dominio":"museudainconfidencia.gov.br",
+    "nome":"IPHAN - MUSEU DA INCONFIDENCIA"
+  },
+  {
+    "url":"http://www.museudebiologiamelloleitao.gov.br",
+    "dominio":"museudebiologiamelloleitao.gov.br",
+    "nome":"MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO"
+  },
+  {
+    "url":"http://www.museudoindio.gov.br",
+    "dominio":"museudoindio.gov.br",
+    "nome":"MUSEU DO INDIO - FUNDACAO NACIONAL DO INDIO"
+  },
+  {
+    "url":"http://www.museuimperial.gov.br",
+    "dominio":"museuimperial.gov.br",
+    "nome":"MUSEU IMPERIAL"
+  },
+  {
+    "url":"http://www.museulasarsegall.gov.br",
+    "dominio":"museulasarsegall.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE MUSEUS - IBRAM"
+  },
+  {
+    "url":"http://www.museus.gov.br",
+    "dominio":"museus.gov.br",
+    "nome":"INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NAC."
+  },
+  {
+    "url":"http://www.museuvictormeirelles.gov.br",
+    "dominio":"museuvictormeirelles.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE MUSEUS - IBRAM"
+  },
+  {
+    "url":"http://www.maismedico.gov.br",
+    "dominio":"maismedico.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES"
+  },
+  {
+    "url":"http://www.maismedicos.gov.br",
+    "dominio":"maismedicos.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES"
+  },
+  {
+    "url":"http://www.mcti.gov.br",
+    "dominio":"mcti.gov.br",
+    "nome":"MINISTERIO DA CIENCIA, TECNOLOGIA E INOVACAO"
+  },
+  {
+    "url":"http://www.microepequenaempresa.gov.br",
+    "dominio":"microepequenaempresa.gov.br",
+    "nome":"SECRETARIA DA MICRO E PEQUENA EMPRESA"
+  },
+  {
+    "url":"http://www.migrantes.gov.br",
+    "dominio":"migrantes.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.nae.gov.br",
+    "dominio":"nae.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.nead.gov.br",
+    "dominio":"nead.gov.br",
+    "nome":"INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA"
+  },
+  {
+    "url":"http://www.netgoverno.gov.br",
+    "dominio":"netgoverno.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.netminas.gov.br",
+    "dominio":"netminas.gov.br",
+    "nome":"COMPANHIA DE TECNOLOGIA DA INFORMACAO ESTADO MG"
+  },
+  {
+    "url":"http://www.nex.gov.br",
+    "dominio":"nex.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.niteroi-artes.gov.br",
+    "dominio":"niteroi-artes.gov.br",
+    "nome":"FUNDACAO DE ARTE DE NITEROI"
+  },
+  {
+    "url":"http://www.nordestedigital.gov.br",
+    "dominio":"nordestedigital.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.nordesteeletronico.gov.br",
+    "dominio":"nordesteeletronico.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.nordestenegocios.gov.br",
+    "dominio":"nordestenegocios.gov.br",
+    "nome":"BANCO DO NORDESTE DO BRASIL S/A"
+  },
+  {
+    "url":"http://www.nossoambiente.gov.br",
+    "dominio":"nossoambiente.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.novoaeroportorecife.gov.br",
+    "dominio":"novoaeroportorecife.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.nuclebras.gov.br",
+    "dominio":"nuclebras.gov.br",
+    "nome":"NUCLEBRAS EQUIPAMENTOS PESADOS S.A."
+  },
+  {
+    "url":"http://www.nuclep.gov.br",
+    "dominio":"nuclep.gov.br",
+    "nome":"NUCLEBRAS EQUIPAMENTOS PESADOS S.A."
+  },
+  {
+    "url":"http://www.noticias.gov.br",
+    "dominio":"noticias.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.obrasnet.gov.br",
+    "dominio":"obrasnet.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.obscriancaeadolescente.gov.br",
+    "dominio":"obscriancaeadolescente.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.observatoriodegenero.gov.br",
+    "dominio":"observatoriodegenero.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.oconsumidor.gov.br",
+    "dominio":"oconsumidor.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.officebankingsocial.gov.br",
+    "dominio":"officebankingsocial.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.olacefs.gov.br",
+    "dominio":"olacefs.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.olaturista.gov.br",
+    "dominio":"olaturista.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.opeixeeaartedepescar.gov.br",
+    "dominio":"opeixeeaartedepescar.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.orcamentofederal.gov.br",
+    "dominio":"orcamentofederal.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.orint.gov.br",
+    "dominio":"orint.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.ouvidoriadoservidor.gov.br",
+    "dominio":"ouvidoriadoservidor.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.ouvidorias.gov.br",
+    "dominio":"ouvidorias.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.odmbrasil.gov.br",
+    "dominio":"odmbrasil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA - SECRETARIA DE ADMNISTRACAO"
+  },
+  {
+    "url":"http://www.orcamento.gov.br",
+    "dominio":"orcamento.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO,ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.observatoriodaindustria.gov.br",
+    "dominio":"observatoriodaindustria.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.p2r2.gov.br",
+    "dominio":"p2r2.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.pa.gov.br",
+    "dominio":"pa.gov.br",
+    "nome":"GOVERNO DO ESTADO DO PARA"
+  },
+  {
+    "url":"http://www.pac.gov.br",
+    "dominio":"pac.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.palmares.gov.br",
+    "dominio":"palmares.gov.br",
+    "nome":"FUNDACAO CULTURAL PALMARES / MINC"
+  },
+  {
+    "url":"http://www.pame.gov.br",
+    "dominio":"pame.gov.br",
+    "nome":"PARQUE DE MATERIAL DE ELETRONICA DA AERONAUTICA"
+  },
+  {
+    "url":"http://www.parana.gov.br",
+    "dominio":"parana.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.paranaeleitoral.gov.br",
+    "dominio":"paranaeleitoral.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO PARANA"
+  },
+  {
+    "url":"http://www.passaporteverde.gov.br",
+    "dominio":"passaporteverde.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.patrimoniodetodos.gov.br",
+    "dominio":"patrimoniodetodos.gov.br",
+    "nome":"SECRETARIA DO PATROMONIO DA UNIAO"
+  },
+  {
+    "url":"http://www.pb.gov.br",
+    "dominio":"pb.gov.br",
+    "nome":"COMPANHIA DE PROCESSAMENTO DE DADOS DA PARAIBA"
+  },
+  {
+    "url":"http://www.pbh.gov.br",
+    "dominio":"pbh.gov.br",
+    "nome":"EMP. INFORMAT. INFORMACAO MUN. BH/SA"
+  },
+  {
+    "url":"http://www.pbqp-h.gov.br",
+    "dominio":"pbqp-h.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.pbqp.gov.br",
+    "dominio":"pbqp.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.pcdl.gov.br",
+    "dominio":"pcdl.gov.br",
+    "nome":"PRIMEIRA COMISSAO BRASILEIRA DEMARCADORA DE LIMITE"
+  },
+  {
+    "url":"http://www.pdp.gov.br",
+    "dominio":"pdp.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.pe.gov.br",
+    "dominio":"pe.gov.br",
+    "nome":"AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI"
+  },
+  {
+    "url":"http://www.pernambuco.gov.br",
+    "dominio":"pernambuco.gov.br",
+    "nome":"AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI"
+  },
+  {
+    "url":"http://www.pescabrasil.gov.br",
+    "dominio":"pescabrasil.gov.br",
+    "nome":"MINISTERIO DA PESCA E AQUICULTURA"
+  },
+  {
+    "url":"http://www.pessoacomdeficiencia.gov.br",
+    "dominio":"pessoacomdeficiencia.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.peticaoeletronica.gov.br",
+    "dominio":"peticaoeletronica.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.petrobras.gov.br",
+    "dominio":"petrobras.gov.br",
+    "nome":"PETROLEO BRASILEIRO S/A - PETROBRAS"
+  },
+  {
+    "url":"http://www.pf.gov.br",
+    "dominio":"pf.gov.br",
+    "nome":"DEPARTAMENTO DE POLICIA FEDERAL"
+  },
+  {
+    "url":"http://www.pgfn.gov.br",
+    "dominio":"pgfn.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.pgr.gov.br",
+    "dominio":"pgr.gov.br",
+    "nome":"MINISTERIO PUBLICO FEDERAL - PROCURADORIA GERAL DA"
+  },
+  {
+    "url":"http://www.pi.gov.br",
+    "dominio":"pi.gov.br",
+    "nome":"PRODEPI - EMP. DE INFORMATICA DO PIAUI"
+  },
+  {
+    "url":"http://www.pimentalonga.gov.br",
+    "dominio":"pimentalonga.gov.br",
+    "nome":"EMBRAPA - ACRE"
+  },
+  {
+    "url":"http://www.planalto.gov.br",
+    "dominio":"planalto.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.planejamento.gov.br",
+    "dominio":"planejamento.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.planejamentoterritorial.gov.br",
+    "dominio":"planejamentoterritorial.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.planobrasil.gov.br",
+    "dominio":"planobrasil.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.plenarinho.gov.br",
+    "dominio":"plenarinho.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.pmss.gov.br",
+    "dominio":"pmss.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.pncda.gov.br",
+    "dominio":"pncda.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.pnll.gov.br",
+    "dominio":"pnll.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.policiafederal.gov.br",
+    "dominio":"policiafederal.gov.br",
+    "nome":"DEPARTAMENTO DE POLICIA FEDERAL"
+  },
+  {
+    "url":"http://www.politicasmulheres.gov.br",
+    "dominio":"politicasmulheres.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS PARA AS MULHERES"
+  },
+  {
+    "url":"http://www.pormin.gov.br",
+    "dominio":"pormin.gov.br",
+    "nome":"DEPARTAMENTO NACIONAL DE PRODUCAO MINERAL"
+  },
+  {
+    "url":"http://www.portalambiental.gov.br",
+    "dominio":"portalambiental.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.portalbrasil.gov.br",
+    "dominio":"portalbrasil.gov.br",
+    "nome":"EMPRESA BRASIL DE COMUNICACAO S.A. - EBC"
+  },
+  {
+    "url":"http://www.portalcofen.gov.br",
+    "dominio":"portalcofen.gov.br",
+    "nome":"CONSELHO FEDERAL DE ENFERMAGEM"
+  },
+  {
+    "url":"http://www.portalcoren-rs.gov.br",
+    "dominio":"portalcoren-rs.gov.br",
+    "nome":"CONSELHO REGIONAL DE ENFERMAGEM - RS"
+  },
+  {
+    "url":"http://www.portaldaexportacao.gov.br",
+    "dominio":"portaldaexportacao.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO"
+  },
+  {
+    "url":"http://www.portaldaigualdade.gov.br",
+    "dominio":"portaldaigualdade.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG"
+  },
+  {
+    "url":"http://www.portaldajustica.gov.br",
+    "dominio":"portaldajustica.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.portaldasaguas.gov.br",
+    "dominio":"portaldasaguas.gov.br",
+    "nome":"AGENCIA NACIONAL DE AGUAS"
+  },
+  {
+    "url":"http://www.portaldatransparencia.gov.br",
+    "dominio":"portaldatransparencia.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.portaldoconsumidor.gov.br",
+    "dominio":"portaldoconsumidor.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.portaldoempreendedor.gov.br",
+    "dominio":"portaldoempreendedor.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.portaldoexportador.gov.br",
+    "dominio":"portaldoexportador.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.portaldoinvestidor.gov.br",
+    "dominio":"portaldoinvestidor.gov.br",
+    "nome":"CVM - COMISSAO DE VALORES MOBILIARIOS"
+  },
+  {
+    "url":"http://www.portalexporta.gov.br",
+    "dominio":"portalexporta.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO"
+  },
+  {
+    "url":"http://www.portalexportacao.gov.br",
+    "dominio":"portalexportacao.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.portalfederativo.gov.br",
+    "dominio":"portalfederativo.gov.br",
+    "nome":"IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA"
+  },
+  {
+    "url":"http://www.portalgoverno.gov.br",
+    "dominio":"portalgoverno.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.portaljt.gov.br",
+    "dominio":"portaljt.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.portalplanalto.gov.br",
+    "dominio":"portalplanalto.gov.br",
+    "nome":"SECRETARIA DE COMUNICACAO SOCIAL"
+  },
+  {
+    "url":"http://www.portaltransparencia.gov.br",
+    "dominio":"portaltransparencia.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.portodesantos.gov.br",
+    "dominio":"portodesantos.gov.br",
+    "nome":"COMPANHIA DOCAS DO EST DE SAO PAULO - CODESP"
+  },
+  {
+    "url":"http://www.portodevitoria.gov.br",
+    "dominio":"portodevitoria.gov.br",
+    "nome":"COMPANHIA DOCAS DO ESPIRITO SANTO"
+  },
+  {
+    "url":"http://www.portosdobrasil.gov.br",
+    "dominio":"portosdobrasil.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.portosempapel.gov.br",
+    "dominio":"portosempapel.gov.br",
+    "nome":"SECRETARIA DE PORTOS DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.portosrio.gov.br",
+    "dominio":"portosrio.gov.br",
+    "nome":"COMPANHIA DOCAS DO RIO DE JANEIRO"
+  },
+  {
+    "url":"http://www.postal.gov.br",
+    "dominio":"postal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.poupeenergia.gov.br",
+    "dominio":"poupeenergia.gov.br",
+    "nome":"MINISTERIO DE MINAS E ENERGIA"
+  },
+  {
+    "url":"http://www.ppcaam.gov.br",
+    "dominio":"ppcaam.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.pr.gov.br",
+    "dominio":"pr.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.pracas.gov.br",
+    "dominio":"pracas.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.pracasdopac.gov.br",
+    "dominio":"pracasdopac.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO"
+  },
+  {
+    "url":"http://www.prap.gov.br",
+    "dominio":"prap.gov.br",
+    "nome":"PROCURADORIA DA REPUBLICA NO ESTADO DO AMAPA"
+  },
+  {
+    "url":"http://www.premio-e.gov.br",
+    "dominio":"premio-e.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRA"
+  },
+  {
+    "url":"http://www.premioconservacaoenergia.gov.br",
+    "dominio":"premioconservacaoenergia.gov.br",
+    "nome":"CENTRAIS ELETRICAS BRASILEIRAS SA"
+  },
+  {
+    "url":"http://www.preps.gov.br",
+    "dominio":"preps.gov.br",
+    "nome":"MINISTERIO DA PESCA E AQUICULTURA"
+  },
+  {
+    "url":"http://www.presidencia.gov.br",
+    "dominio":"presidencia.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.presidenciadarepublica.gov.br",
+    "dominio":"presidenciadarepublica.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.previdencia.gov.br",
+    "dominio":"previdencia.gov.br",
+    "nome":"DATAPREV EMPRESA DE PROC. DE DADOS DA PREVIDENCIA"
+  },
+  {
+    "url":"http://www.pru5.gov.br",
+    "dominio":"pru5.gov.br",
+    "nome":"ADVOCACIA GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.purn.gov.br",
+    "dominio":"purn.gov.br",
+    "nome":"PROCURADORIA DA UNIAO NO RN"
+  },
+  {
+    "url":"http://www.promocaocomercial.gov.br",
+    "dominio":"promocaocomercial.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.participa.gov.br",
+    "dominio":"participa.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.participe.gov.br",
+    "dominio":"participe.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.participo.gov.br",
+    "dominio":"participo.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.portalconsular.gov.br",
+    "dominio":"portalconsular.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.portaldacopa.gov.br",
+    "dominio":"portaldacopa.gov.br",
+    "nome":"ME - MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.programaarpa.gov.br",
+    "dominio":"programaarpa.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.protocolointegrado.gov.br",
+    "dominio":"protocolointegrado.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.previc.gov.br",
+    "dominio":"previc.gov.br",
+    "nome":"DATAPREV EMPRESA DE PROC. DE DADOS DA PREVIDENCIA"
+  },
+  {
+    "url":"http://www.prplanalto.gov.br",
+    "dominio":"prplanalto.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.portalsiscomex.gov.br",
+    "dominio":"portalsiscomex.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.qualidadedealimentos.gov.br",
+    "dominio":"qualidadedealimentos.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.qualidadedoleite.gov.br",
+    "dominio":"qualidadedoleite.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.quina.gov.br",
+    "dominio":"quina.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.quiosque.gov.br",
+    "dominio":"quiosque.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.quiosqueredegoverno.gov.br",
+    "dominio":"quiosqueredegoverno.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.radiobras.gov.br",
+    "dominio":"radiobras.gov.br",
+    "nome":"EMPRESA BRASIL DE COMUNICACAO S.A. - EBC"
+  },
+  {
+    "url":"http://www.radiocamara.gov.br",
+    "dominio":"radiocamara.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.radiojustica.gov.br",
+    "dominio":"radiojustica.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.rais.gov.br",
+    "dominio":"rais.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.rapidinha.gov.br",
+    "dominio":"rapidinha.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.raspadinhadacaixa.gov.br",
+    "dominio":"raspadinhadacaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.raspadinhafederal.gov.br",
+    "dominio":"raspadinhafederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.rb.gov.br",
+    "dominio":"rb.gov.br",
+    "nome":"FUNDACAO CASA DE RUI BARBOSA"
+  },
+  {
+    "url":"http://www.rbmlq.gov.br",
+    "dominio":"rbmlq.gov.br",
+    "nome":"INMETRO INSTITUTO NAC DE METROL NORM E QUAL INDUST"
+  },
+  {
+    "url":"http://www.receita.gov.br",
+    "dominio":"receita.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.redeagentes.gov.br",
+    "dominio":"redeagentes.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.redebrasil.gov.br",
+    "dominio":"redebrasil.gov.br",
+    "nome":"MINISTERIO DA CIENCIA E TECNOLOGIA"
+  },
+  {
+    "url":"http://www.redecidadao.gov.br",
+    "dominio":"redecidadao.gov.br",
+    "nome":"COMPANHIA DE INFORMATICA DO PARANA - CELEPAR"
+  },
+  {
+    "url":"http://www.redecontrole.gov.br",
+    "dominio":"redecontrole.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.rededecontrole.gov.br",
+    "dominio":"rededecontrole.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.rededojudiciario.gov.br",
+    "dominio":"rededojudiciario.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.rededopoderjudiciario.gov.br",
+    "dominio":"rededopoderjudiciario.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.redefloresta.gov.br",
+    "dominio":"redefloresta.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.redegeochronos.gov.br",
+    "dominio":"redegeochronos.gov.br",
+    "nome":"COMPANHIA DE PESQUISA DE RECURSOS MINERAIS"
+  },
+  {
+    "url":"http://www.redegoverno.gov.br",
+    "dominio":"redegoverno.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.redejudiciario.gov.br",
+    "dominio":"redejudiciario.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.redesocial.gov.br",
+    "dominio":"redesocial.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.reformaagraria.gov.br",
+    "dominio":"reformaagraria.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.reformapostal.gov.br",
+    "dominio":"reformapostal.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS"
+  },
+  {
+    "url":"http://www.regulacao.gov.br",
+    "dominio":"regulacao.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.relacoesinstitucionais.gov.br",
+    "dominio":"relacoesinstitucionais.gov.br",
+    "nome":"SECRETARIA DE RELACOES INSTITUCIONAIS DA PRESIDENC"
+  },
+  {
+    "url":"http://www.reluz.gov.br",
+    "dominio":"reluz.gov.br",
+    "nome":"CENTRAIS ELETRICAS BRASILEIRAS SA"
+  },
+  {
+    "url":"http://www.renapi.gov.br",
+    "dominio":"renapi.gov.br",
+    "nome":"INSTITUTO FEDERAL DE BRASILIA"
+  },
+  {
+    "url":"http://www.reste.gov.br",
+    "dominio":"reste.gov.br",
+    "nome":"COMPANHIA DE PESQUISA DE RECURSOS MINERAIS"
+  },
+  {
+    "url":"http://www.retp.gov.br",
+    "dominio":"retp.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.rfb.gov.br",
+    "dominio":"rfb.gov.br",
+    "nome":"MINISTERIO DA FAZENDA"
+  },
+  {
+    "url":"http://www.rffsa.gov.br",
+    "dominio":"rffsa.gov.br",
+    "nome":"REDE FERROVIARIA FEDERAL S.A."
+  },
+  {
+    "url":"http://www.rio.gov.br",
+    "dominio":"rio.gov.br",
+    "nome":"EMPRESA MUNICIPAL DE INFORMATICA S/A"
+  },
+  {
+    "url":"http://www.rio20.gov.br",
+    "dominio":"rio20.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.riocmsi.gov.br",
+    "dominio":"riocmsi.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.rj.gov.br",
+    "dominio":"rj.gov.br",
+    "nome":"PRODERJ-CENTRO DE TECNOLOGIA DA INFORMACAO DO RJ"
+  },
+  {
+    "url":"http://www.rn.gov.br",
+    "dominio":"rn.gov.br",
+    "nome":"GOVERNO DO ESTADO DO RIO GRANDE DO NORTE"
+  },
+  {
+    "url":"http://www.rndh.gov.br",
+    "dominio":"rndh.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.rni.gov.br",
+    "dominio":"rni.gov.br",
+    "nome":"REDE NORTERIOGRANDESE DE INFORMATICA - RNI"
+  },
+  {
+    "url":"http://www.ro.gov.br",
+    "dominio":"ro.gov.br",
+    "nome":"SECRETARIA DE ESTADO - SEPLAD - RO"
+  },
+  {
+    "url":"http://www.rpp.gov.br",
+    "dominio":"rpp.gov.br",
+    "nome":"FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO PIAUI"
+  },
+  {
+    "url":"http://www.rr.gov.br",
+    "dominio":"rr.gov.br",
+    "nome":"GOVERNO DO ESTADO DE RORAIMA"
+  },
+  {
+    "url":"http://www.rs.gov.br",
+    "dominio":"rs.gov.br",
+    "nome":"PROCERGS - CIA DE PROCESSAMENTO DE DADOS DO RGS"
+  },
+  {
+    "url":"http://www.ruralminas.gov.br",
+    "dominio":"ruralminas.gov.br",
+    "nome":"FUNDACAO RURAL MINEIRA - RURALMINAS"
+  },
+  {
+    "url":"http://www.rotasdascidades.gov.br",
+    "dominio":"rotasdascidades.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.redepcs.gov.br",
+    "dominio":"redepcs.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.rap.gov.br",
+    "dominio":"rap.gov.br",
+    "nome":"MINISTERIO PUBLICO DO ESTADO DO RIO DE JANEIRO"
+  },
+  {
+    "url":"http://www.recadastramento.gov.br",
+    "dominio":"recadastramento.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.redemulheres.gov.br",
+    "dominio":"redemulheres.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.registrocivil.gov.br",
+    "dominio":"registrocivil.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.relacoesexteriores.gov.br",
+    "dominio":"relacoesexteriores.gov.br",
+    "nome":"MINISTERIO DAS RELACOES EXTERIORES"
+  },
+  {
+    "url":"http://www.sacoeumsaco.gov.br",
+    "dominio":"sacoeumsaco.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.sae.gov.br",
+    "dominio":"sae.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.saemec.gov.br",
+    "dominio":"saemec.gov.br",
+    "nome":"INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO"
+  },
+  {
+    "url":"http://www.saofrancisco.gov.br",
+    "dominio":"saofrancisco.gov.br",
+    "nome":"COMPANHIA DE PESQUISA DE RECURSOS MINERAIS - CPRM"
+  },
+  {
+    "url":"http://www.saude.gov.br",
+    "dominio":"saude.gov.br",
+    "nome":"MINISTERIO DA SAUDE"
+  },
+  {
+    "url":"http://www.saudesuplementar.gov.br",
+    "dominio":"saudesuplementar.gov.br",
+    "nome":"AGENCIA NACIONAL DE SAUDE SUPLEMENTAR"
+  },
+  {
+    "url":"http://www.sc.gov.br",
+    "dominio":"sc.gov.br",
+    "nome":"CENTRO DE INFORMATICA E AUTOMACAO DO ESTADO DE SC"
+  },
+  {
+    "url":"http://www.scdl.gov.br",
+    "dominio":"scdl.gov.br",
+    "nome":"SEG. COM. BRAS. DEMARC. DE LIMITES"
+  },
+  {
+    "url":"http://www.scdp.gov.br",
+    "dominio":"scdp.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.scnet.gov.br",
+    "dominio":"scnet.gov.br",
+    "nome":"CENTRO DE INFORMATICA E AUTOMACAO DO ESTADO DE SC"
+  },
+  {
+    "url":"http://www.sdh.gov.br",
+    "dominio":"sdh.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.se.gov.br",
+    "dominio":"se.gov.br",
+    "nome":"EMPRESA SERGIPANA DE TECNOLOGIA DA INFORMACAO"
+  },
+  {
+    "url":"http://www.seade.gov.br",
+    "dominio":"seade.gov.br",
+    "nome":"FUNDACAO SEADE SISTEMA ESTADUAL DE ANALISE DE DADO"
+  },
+  {
+    "url":"http://www.seap.gov.br",
+    "dominio":"seap.gov.br",
+    "nome":"MINISTERIO DA PESCA E AQUICULTURA"
+  },
+  {
+    "url":"http://www.secgeral.gov.br",
+    "dominio":"secgeral.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.secom.gov.br",
+    "dominio":"secom.gov.br",
+    "nome":"SECRETARIA DE COMUNICA"
+  },
+  {
+    "url":"http://www.secretaria-geral.gov.br",
+    "dominio":"secretaria-geral.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.secretariageral.gov.br",
+    "dominio":"secretariageral.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.sedh.gov.br",
+    "dominio":"sedh.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.selic.gov.br",
+    "dominio":"selic.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.seminariodefencil.gov.br",
+    "dominio":"seminariodefencil.gov.br",
+    "nome":"MINISTERIO DA INTEGRACAO NACIONAL"
+  },
+  {
+    "url":"http://www.sena.gov.br",
+    "dominio":"sena.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.senad.gov.br",
+    "dominio":"senad.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.senado.gov.br",
+    "dominio":"senado.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.senador.gov.br",
+    "dominio":"senador.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.senadora.gov.br",
+    "dominio":"senadora.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.senasp.gov.br",
+    "dominio":"senasp.gov.br",
+    "nome":"SECRETARIA NACIONAL DE SEGURANCA PUBLICA"
+  },
+  {
+    "url":"http://www.separeolixo.gov.br",
+    "dominio":"separeolixo.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.sepm.gov.br",
+    "dominio":"sepm.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS PARA AS MULHERES"
+  },
+  {
+    "url":"http://www.seppir.gov.br",
+    "dominio":"seppir.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IG"
+  },
+  {
+    "url":"http://www.serac4.gov.br",
+    "dominio":"serac4.gov.br",
+    "nome":"MAER QUARTO SERVICO REGIONAL DE AVIACAO CIVIL"
+  },
+  {
+    "url":"http://www.serpro.gov.br",
+    "dominio":"serpro.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.servicoflorestal.gov.br",
+    "dominio":"servicoflorestal.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.servicos.gov.br",
+    "dominio":"servicos.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.servidor.gov.br",
+    "dominio":"servidor.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.seti.gov.br",
+    "dominio":"seti.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA CIENCIA, TECNOLOGIA"
+  },
+  {
+    "url":"http://www.sfb.gov.br",
+    "dominio":"sfb.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.sg.gov.br",
+    "dominio":"sg.gov.br",
+    "nome":"SECRETARIA-GERAL DA PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.sgi.gov.br",
+    "dominio":"sgi.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.shoppingcaixa.gov.br",
+    "dominio":"shoppingcaixa.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.siapenet.gov.br",
+    "dominio":"siapenet.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.siga.gov.br",
+    "dominio":"siga.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.sigabrasil.gov.br",
+    "dominio":"sigabrasil.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.sigepe.gov.br",
+    "dominio":"sigepe.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.sigplan.gov.br",
+    "dominio":"sigplan.gov.br",
+    "nome":"SECRETARIA DE ESTADO DA ADMINISTRACAO E PATRIMONIO"
+  },
+  {
+    "url":"http://www.simecpr.gov.br",
+    "dominio":"simecpr.gov.br",
+    "nome":"MINISTERIO DA EDUCACAO"
+  },
+  {
+    "url":"http://www.sintegra.gov.br",
+    "dominio":"sintegra.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.siorg.gov.br",
+    "dominio":"siorg.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.sipam.gov.br",
+    "dominio":"sipam.gov.br",
+    "nome":"CENTRO GESTOR E OP. SIST. DE PROTECAO DA AMAZONIA"
+  },
+  {
+    "url":"http://www.sipia.gov.br",
+    "dominio":"sipia.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.sisbacen.gov.br",
+    "dominio":"sisbacen.gov.br",
+    "nome":"BANCO CENTRAL DO BRASIL"
+  },
+  {
+    "url":"http://www.sisbin.gov.br",
+    "dominio":"sisbin.gov.br",
+    "nome":"AGENCIA BRASILEIRA DE INTELIGENCIA"
+  },
+  {
+    "url":"http://www.siscomex.gov.br",
+    "dominio":"siscomex.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.sisp.gov.br",
+    "dominio":"sisp.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.sispac.gov.br",
+    "dominio":"sispac.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.sitedoconsumidor.gov.br",
+    "dominio":"sitedoconsumidor.gov.br",
+    "nome":"INMETRO-INS. NAC. DE METROLOG. QUALID. E TECNOLG."
+  },
+  {
+    "url":"http://www.sivam.gov.br",
+    "dominio":"sivam.gov.br",
+    "nome":"COMISSAO DE IMPLANTACAO DO SISTEMA DE CONTROLE DO"
+  },
+  {
+    "url":"http://www.sivnet.gov.br",
+    "dominio":"sivnet.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.sjrs.gov.br",
+    "dominio":"sjrs.gov.br",
+    "nome":"JUSTICA FEDERAL DE PRIMEIRO GRAU NO RS"
+  },
+  {
+    "url":"http://www.snirh.gov.br",
+    "dominio":"snirh.gov.br",
+    "nome":"AGENCIA NACIONAL DE AGUAS"
+  },
+  {
+    "url":"http://www.snis.gov.br",
+    "dominio":"snis.gov.br",
+    "nome":"MINISTERIO DAS CIDADES"
+  },
+  {
+    "url":"http://www.socinfo.gov.br",
+    "dominio":"socinfo.gov.br",
+    "nome":"INSTITUTO BRASILEIRO DE INFORMACAO EM C&T"
+  },
+  {
+    "url":"http://www.softwarelivre.gov.br",
+    "dominio":"softwarelivre.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.softwarepublico.gov.br",
+    "dominio":"softwarepublico.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.solucoestipublica.gov.br",
+    "dominio":"solucoestipublica.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.sp-trt.gov.br",
+    "dominio":"sp-trt.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 2 REGIAO"
+  },
+  {
+    "url":"http://www.sp.gov.br",
+    "dominio":"sp.gov.br",
+    "nome":"CIA PROC. DE DADOS DO ESTADO DE S PAULO - PRODESP"
+  },
+  {
+    "url":"http://www.splp.gov.br",
+    "dominio":"splp.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.spm.gov.br",
+    "dominio":"spm.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS PARA AS MULHERES"
+  },
+  {
+    "url":"http://www.spmulheres.gov.br",
+    "dominio":"spmulheres.gov.br",
+    "nome":"SECRETARIA ESPECIAL DE POLITICAS PARA AS MULHERES"
+  },
+  {
+    "url":"http://www.sptrt.gov.br",
+    "dominio":"sptrt.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 2 REGIAO "
+  },
+  {
+    "url":"http://www.sri.gov.br",
+    "dominio":"sri.gov.br",
+    "nome":"SECRETARIA DE RELACOES INSTITUCIONAIS DA PRESIDENC"
+  },
+  {
+    "url":"http://www.srpv-sp.gov.br",
+    "dominio":"srpv-sp.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.srpvsp.gov.br",
+    "dominio":"srpvsp.gov.br",
+    "nome":"COMANDO DA AERONAUTICA - SRPV-SP"
+  },
+  {
+    "url":"http://www.stf.gov.br",
+    "dominio":"stf.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.sirc.gov.br",
+    "dominio":"sirc.gov.br",
+    "nome":"DATAPREV EMPRESA DE PROC. DE DADOS DA PREVIDENCIA"
+  },
+  {
+    "url":"http://www.soumaismedico.gov.br",
+    "dominio":"soumaismedico.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES"
+  },
+  {
+    "url":"http://www.soumaismedicos.gov.br",
+    "dominio":"soumaismedicos.gov.br",
+    "nome":"EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES"
+  },
+  {
+    "url":"http://www.segurancaquimica.gov.br",
+    "dominio":"segurancaquimica.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.servir.gov.br",
+    "dominio":"servir.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.sibbr.gov.br",
+    "dominio":"sibbr.gov.br",
+    "nome":"LABORATORIO NACIONAL DE COMPUTACAO CIENTIFICA"
+  },
+  {
+    "url":"http://www.sinir.gov.br",
+    "dominio":"sinir.gov.br",
+    "nome":"MINISTERIO DO MEIO AMBIENTE"
+  },
+  {
+    "url":"http://www.smpe.gov.br",
+    "dominio":"smpe.gov.br",
+    "nome":"SECRETARIA DA MICRO E PEQUENA EMPRESA"
+  },
+  {
+    "url":"http://www.simples.gov.br",
+    "dominio":"simples.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.tavbrasil.gov.br",
+    "dominio":"tavbrasil.gov.br",
+    "nome":"AGENCIA NACIONAL DE TRANSPORTES TERRESTRES"
+  },
+  {
+    "url":"http://www.tcu.gov.br",
+    "dominio":"tcu.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.tecanet.gov.br",
+    "dominio":"tecanet.gov.br",
+    "nome":"INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA"
+  },
+  {
+    "url":"http://www.tecnojusc.gov.br",
+    "dominio":"tecnojusc.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO"
+  },
+  {
+    "url":"http://www.teimozinha.gov.br",
+    "dominio":"teimozinha.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.telebrasilia.gov.br",
+    "dominio":"telebrasilia.gov.br",
+    "nome":"TELEBRASILIA S.A."
+  },
+  {
+    "url":"http://www.teleceara.gov.br",
+    "dominio":"teleceara.gov.br",
+    "nome":"TELE NORTE LESTE PARTICIPACOES S.A."
+  },
+  {
+    "url":"http://www.telepar.gov.br",
+    "dominio":"telepar.gov.br",
+    "nome":"BRASIL TELECOM S.A."
+  },
+  {
+    "url":"http://www.telesc.gov.br",
+    "dominio":"telesc.gov.br",
+    "nome":"BRASIL TELECOM S.A."
+  },
+  {
+    "url":"http://www.territoriosdacidadania.gov.br",
+    "dominio":"territoriosdacidadania.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO AGRARIO"
+  },
+  {
+    "url":"http://www.tesouro.gov.br",
+    "dominio":"tesouro.gov.br",
+    "nome":"SECRETARIA DO TESOURO NACIONAL"
+  },
+  {
+    "url":"http://www.tesourodireto.gov.br",
+    "dominio":"tesourodireto.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.ticontrole.gov.br",
+    "dominio":"ticontrole.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.tjap.gov.br",
+    "dominio":"tjap.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO ESTADO DO AMAPA"
+  },
+  {
+    "url":"http://www.tjdf.gov.br",
+    "dominio":"tjdf.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.tjdft.gov.br",
+    "dominio":"tjdft.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.tjmg.gov.br",
+    "dominio":"tjmg.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS"
+  },
+  {
+    "url":"http://www.tjpe.gov.br",
+    "dominio":"tjpe.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO ESTADO DE PERNAMBUCO"
+  },
+  {
+    "url":"http://www.tjrn.gov.br",
+    "dominio":"tjrn.gov.br",
+    "nome":"TRIBUNAL DE JUSTICA DO ESTADO DO RN"
+  },
+  {
+    "url":"http://www.to.gov.br",
+    "dominio":"to.gov.br",
+    "nome":"GOVERNO DO ESTADO DO TOCANTINS"
+  },
+  {
+    "url":"http://www.topawa-kaa.gov.br",
+    "dominio":"topawa-kaa.gov.br",
+    "nome":"CENTRAIS ELETRICAS DO NORTE DO BRASIL"
+  },
+  {
+    "url":"http://www.torcidalegal.gov.br",
+    "dominio":"torcidalegal.gov.br",
+    "nome":"ME - MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.trabalho.gov.br",
+    "dominio":"trabalho.gov.br",
+    "nome":"MINISTERIO DO TRABALHO E EMPREGO"
+  },
+  {
+    "url":"http://www.transparencia.gov.br",
+    "dominio":"transparencia.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.transparencianacopa.gov.br",
+    "dominio":"transparencianacopa.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.transparenciapublica.gov.br",
+    "dominio":"transparenciapublica.gov.br",
+    "nome":"CONTROLADORIA-GERAL DA UNIAO"
+  },
+  {
+    "url":"http://www.transportes.gov.br",
+    "dominio":"transportes.gov.br",
+    "nome":"MINISTERIO DOS TRANSPORTES"
+  },
+  {
+    "url":"http://www.tre-ac.gov.br",
+    "dominio":"tre-ac.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO ACRE"
+  },
+  {
+    "url":"http://www.tre-al.gov.br",
+    "dominio":"tre-al.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE ALAGOAS"
+  },
+  {
+    "url":"http://www.tre-am.gov.br",
+    "dominio":"tre-am.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO AMAZONAS"
+  },
+  {
+    "url":"http://www.tre-ap.gov.br",
+    "dominio":"tre-ap.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO AMAPA"
+  },
+  {
+    "url":"http://www.tre-ba.gov.br",
+    "dominio":"tre-ba.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DA BAHIA"
+  },
+  {
+    "url":"http://www.tre-ce.gov.br",
+    "dominio":"tre-ce.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO CEARA"
+  },
+  {
+    "url":"http://www.tre-df.gov.br",
+    "dominio":"tre-df.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO DISTRITO FEDERAL"
+  },
+  {
+    "url":"http://www.tre-es.gov.br",
+    "dominio":"tre-es.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO ESPRITO DO SANTO"
+  },
+  {
+    "url":"http://www.tre-go.gov.br",
+    "dominio":"tre-go.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO GOIAS"
+  },
+  {
+    "url":"http://www.tre-ma.gov.br",
+    "dominio":"tre-ma.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO MARANHAO"
+  },
+  {
+    "url":"http://www.tre-mg.gov.br",
+    "dominio":"tre-mg.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE MINAS GERAIS"
+  },
+  {
+    "url":"http://www.tre-ms.gov.br",
+    "dominio":"tre-ms.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE MS"
+  },
+  {
+    "url":"http://www.tre-mt.gov.br",
+    "dominio":"tre-mt.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE MATO GROSSO"
+  },
+  {
+    "url":"http://www.tre-pa.gov.br",
+    "dominio":"tre-pa.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO PARA"
+  },
+  {
+    "url":"http://www.tre-pb.gov.br",
+    "dominio":"tre-pb.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DA PARA"
+  },
+  {
+    "url":"http://www.tre-pe.gov.br",
+    "dominio":"tre-pe.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO PERNAMBUCO"
+  },
+  {
+    "url":"http://www.tre-pi.gov.br",
+    "dominio":"tre-pi.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO PIAUI"
+  },
+  {
+    "url":"http://www.tre-pr.gov.br",
+    "dominio":"tre-pr.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO PARANA"
+  },
+  {
+    "url":"http://www.tre-rj.gov.br",
+    "dominio":"tre-rj.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO RIO DE JANEIRO"
+  },
+  {
+    "url":"http://www.tre-rn.gov.br",
+    "dominio":"tre-rn.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO NORTE"
+  },
+  {
+    "url":"http://www.tre-ro.gov.br",
+    "dominio":"tre-ro.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE RONDONIA"
+  },
+  {
+    "url":"http://www.tre-rr.gov.br",
+    "dominio":"tre-rr.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE RORAIMA"
+  },
+  {
+    "url":"http://www.tre-rs.gov.br",
+    "dominio":"tre-rs.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO SUL"
+  },
+  {
+    "url":"http://www.tre-sc.gov.br",
+    "dominio":"tre-sc.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE SANTA CATARINA"
+  },
+  {
+    "url":"http://www.tre-se.gov.br",
+    "dominio":"tre-se.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE SERGIPE"
+  },
+  {
+    "url":"http://www.tre-sp.gov.br",
+    "dominio":"tre-sp.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DE SAO PAULO"
+  },
+  {
+    "url":"http://www.tre-to.gov.br",
+    "dominio":"tre-to.gov.br",
+    "nome":"TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS"
+  },
+  {
+    "url":"http://www.trensurb.gov.br",
+    "dominio":"trensurb.gov.br",
+    "nome":"MINISTERIO DOS TRANSPORTES"
+  },
+  {
+    "url":"http://www.trevodaloteria.gov.br",
+    "dominio":"trevodaloteria.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trevodasorte.gov.br",
+    "dominio":"trevodasorte.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trevofederal.gov.br",
+    "dominio":"trevofederal.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trf1.gov.br",
+    "dominio":"trf1.gov.br",
+    "nome":"TRIBUNAL REGIONAL FEDERAL DA 1A REGIAO"
+  },
+  {
+    "url":"http://www.trf2.gov.br",
+    "dominio":"trf2.gov.br",
+    "nome":"TRIBUNAL REGIONAL FEDERAL DA 2A. REGIAO"
+  },
+  {
+    "url":"http://www.trf3.gov.br",
+    "dominio":"trf3.gov.br",
+    "nome":"TRIBUNAL REGIONAL FEDERAL DA TERCEIRA REGIAO"
+  },
+  {
+    "url":"http://www.trf4.gov.br",
+    "dominio":"trf4.gov.br",
+    "nome":"TRIBUNAL REGIONAL FEDERAL DA 4 REGIAO"
+  },
+  {
+    "url":"http://www.trf5.gov.br",
+    "dominio":"trf5.gov.br",
+    "nome":"TRIBUNAL REGIONAL FEDERAL"
+  },
+  {
+    "url":"http://www.tribunaiscplp.gov.br",
+    "dominio":"tribunaiscplp.gov.br",
+    "nome":"TRIBUNAL DE CONTAS DA UNIAO"
+  },
+  {
+    "url":"http://www.tribunaisdotrabalho.gov.br",
+    "dominio":"tribunaisdotrabalho.gov.br",
+    "nome":"TRIBUNAL SUPERIOR DO TRABALHO"
+  },
+  {
+    "url":"http://www.trinca.gov.br",
+    "dominio":"trinca.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trincadasorte.gov.br",
+    "dominio":"trincadasorte.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trinka.gov.br",
+    "dominio":"trinka.gov.br",
+    "nome":"CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "url":"http://www.trt-02.gov.br",
+    "dominio":"trt-02.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 2 REGIAO"
+  },
+  {
+    "url":"http://www.trt-ma.gov.br",
+    "dominio":"trt-ma.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO"
+  },
+  {
+    "url":"http://www.trt-pe.gov.br",
+    "dominio":"trt-pe.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 6A. REGIAO"
+  },
+  {
+    "url":"http://www.trt-sp.gov.br",
+    "dominio":"trt-sp.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 2 REGIAO"
+  },
+  {
+    "url":"http://www.trt.gov.br",
+    "dominio":"trt.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIAO"
+  },
+  {
+    "url":"http://www.trt01.gov.br",
+    "dominio":"trt01.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 1A REGIAO"
+  },
+  {
+    "url":"http://www.trt02.gov.br",
+    "dominio":"trt02.gov.br",
+    "nome":"TRIBUNAL REGIONAL DO TRABALHO DA 2 REGIAO"
+  },
+  {
+    "url":"http://www.turismo.gov.br",
+    "dominio":"turismo.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.turismobrasil.gov.br",
+    "dominio":"turismobrasil.gov.br",
+    "nome":"EMBRATUR INSTITUTO BRASILEIRO DE TURISMO"
+  },
+  {
+    "url":"http://www.tvjustica.gov.br",
+    "dominio":"tvjustica.gov.br",
+    "nome":"SUPREMO TRIBUNAL FEDERAL"
+  },
+  {
+    "url":"http://www.tradepromotion.gov.br",
+    "dominio":"tradepromotion.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.tradeandinvestment.gov.br",
+    "dominio":"tradeandinvestment.gov.br",
+    "nome":"MIN. RELACOES EXTERIORES DEPTO PROMOCAO COMERCIAL"
+  },
+  {
+    "url":"http://www.traficodepessoas.gov.br",
+    "dominio":"traficodepessoas.gov.br",
+    "nome":"MINISTERIO DA JUSTICA"
+  },
+  {
+    "url":"http://www.uca.gov.br",
+    "dominio":"uca.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.unijus.gov.br",
+    "dominio":"unijus.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.unasus.gov.br",
+    "dominio":"unasus.gov.br",
+    "nome":"FUNDACAO OSWALDO CRUZ"
+  },
+  {
+    "url":"http://www.valec.gov.br",
+    "dominio":"valec.gov.br",
+    "nome":"VALEC - ENGENHARIA, CONSTRUCOES E FERROVIAS S.A."
+  },
+  {
+    "url":"http://www.varadafazenda.gov.br",
+    "dominio":"varadafazenda.gov.br",
+    "nome":"SUPERIOR TRIBUNAL DE JUSTICA"
+  },
+  {
+    "url":"http://www.venturecapital.gov.br",
+    "dominio":"venturecapital.gov.br",
+    "nome":"FINACIADORA DE ESTUDOS E PROJETOS"
+  },
+  {
+    "url":"http://www.veracruz-rs.gov.br",
+    "dominio":"veracruz-rs.gov.br",
+    "nome":"VERA CRUZ PREFEITURA MUNICIPAL"
+  },
+  {
+    "url":"http://www.vice-presidencia.gov.br",
+    "dominio":"vice-presidencia.gov.br",
+    "nome":"VICE PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.vicepresidenciadarepublica.gov.br",
+    "dominio":"vicepresidenciadarepublica.gov.br",
+    "nome":"VICE PRESIDENCIA DA REPUBLICA"
+  },
+  {
+    "url":"http://www.vidaedinheiro.gov.br",
+    "dominio":"vidaedinheiro.gov.br",
+    "nome":"CVM - COMISSAO DE VALORES MOBILIARIOS"
+  },
+  {
+    "url":"http://www.vigilanciasanitaria.gov.br",
+    "dominio":"vigilanciasanitaria.gov.br",
+    "nome":"AGENCIA NACIONAL DE VIGILANCIA SANITARIA"
+  },
+  {
+    "url":"http://www.vitrinedoexportador.gov.br",
+    "dominio":"vitrinedoexportador.gov.br",
+    "nome":"MINISTERIO DO DESENVOLVIMENTO INDUSTRIA E COMERCIO"
+  },
+  {
+    "url":"http://www.vivaleitura.gov.br",
+    "dominio":"vivaleitura.gov.br",
+    "nome":"MINISTERIO DA CULTURA"
+  },
+  {
+    "url":"http://www.vls.gov.br",
+    "dominio":"vls.gov.br",
+    "nome":"AGENCIA ESPACIAL BRASILEIRA"
+  },
+  {
+    "url":"http://www.viversemlimite.gov.br",
+    "dominio":"viversemlimite.gov.br",
+    "nome":"PRESIDENCIA DA REPUBLICA - SDH"
+  },
+  {
+    "url":"http://www.voluntariado.gov.br",
+    "dominio":"voluntariado.gov.br",
+    "nome":"MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.versionamento.gov.br",
+    "dominio":"versionamento.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.viajamais.gov.br",
+    "dominio":"viajamais.gov.br",
+    "nome":"MINISTERIO DO TURISMO"
+  },
+  {
+    "url":"http://www.vispublica.gov.br",
+    "dominio":"vispublica.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.viibra.gov.br",
+    "dominio":"viibra.gov.br",
+    "nome":"SENADO FEDERAL"
+  },
+  {
+    "url":"http://www.wikilegis.gov.br",
+    "dominio":"wikilegis.gov.br",
+    "nome":"CAMARA DOS DEPUTADOS"
+  },
+  {
+    "url":"http://www.worldcup2014.gov.br",
+    "dominio":"worldcup2014.gov.br",
+    "nome":"ME - MINISTERIO DO ESPORTE"
+  },
+  {
+    "url":"http://www.xn--assistnciasocial-xqb.gov.br",
+    "dominio":"xn--assistnciasocial-xqb.gov.br",
+    "nome":"DATAPREV DF"
+  },
+  {
+    "url":"http://www.xn--certidodenascimento-0vb.gov.br",
+    "dominio":"xn--certidodenascimento-0vb.gov.br",
+    "nome":"SECRETARIA DE DIREITOS HUMANOS"
+  },
+  {
+    "url":"http://www.xn--oramentofederal-fmb.gov.br",
+    "dominio":"xn--oramentofederal-fmb.gov.br",
+    "nome":"SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO"
+  },
+  {
+    "url":"http://www.xn--previdncia-r7a.gov.br",
+    "dominio":"xn--previdncia-r7a.gov.br",
+    "nome":"DATAPREV EMPRESA DE PROC. DE DADOS DA PREVIDENCIA"
+  },
+  {
+    "url":"http://www.xn--previdnciasocial-xqb.gov.br",
+    "dominio":"xn--previdnciasocial-xqb.gov.br",
+    "nome":"DATAPREV DF"
+  },
+  {
+    "url":"http://www.xn--guiadeservios-sgb.gov.br",
+    "dominio":"xn--guiadeservios-sgb.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.xn--notcias-9ya.gov.br",
+    "dominio":"xn--notcias-9ya.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  },
+  {
+    "url":"http://www.xn--servios-yxa.gov.br",
+    "dominio":"xn--servios-yxa.gov.br",
+    "nome":"MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+  }
+]
