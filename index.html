@@ -38,7 +38,7 @@
         $.each(data, function(i, item) {
           items.push(
             '<figure class="span3 picture-item" data-groups="">' +
-              '<a href="screenshots/' + item.dominio + '.png"><img src="screenshots/thumb-' + item.dominio + '.png" height="145" width="230" /></a>' +
+              '<a href="screenshots/' + item.dominio + '.png" style="display: block; height: 200px; overflow: hidden; width: 230px;"><img src="thumbs/thumb-' + item.dominio + '.jpg" width="230" /></a>' +
               '<div class="picture-item__details">' +
                 '<figcaption class="picture-item__title">' + item.nome + '</figcaption>' +
                 '<p class="link-site"><a href="http://www.' + item.dominio + '">Acessar o site</a></p>' +
