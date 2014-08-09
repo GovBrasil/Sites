@@ -134,7 +134,7 @@ section {
 
 /* Related demos */
 .related {
-	padding: 4em 0 3em;
+	padding: 1em 0 3em;
 }
 
 .related p {
@@ -203,8 +203,10 @@ body #cdawrap:hover #cda-remove {
 		display: none;
 	}
 }
+#grid ul, #grid li { list-style: none; margin: 0px; padding: 0px; }
 
-figure.picture-item {
+#grid li.item-img {
+    list-style: none;
     width: 230px;
     display: inline;
     float: left;
@@ -218,3 +220,20 @@ display: block;
 font-size: 0.7em;
 }
 figure.picture-item a:hover { color: black; }
+ul.pagination {
+    clear: both;
+    font-size: 2em;
+}
+#grid .pagination li {
+    display: inline-block;
+    padding: 0.5em;
+    background: #dfdfdf;
+    border-radius: 1em;
+    margin: 0.5em;
+}
+input.search {
+    width: 848px;
+    top: 36px;
+    position: absolute;
+    right: 21px;
+}
